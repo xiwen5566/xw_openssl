@@ -178,3 +178,4 @@ pod2htmd.tmp
 # Windows manifest files
 *.manifest
 doc-nits
+html/
