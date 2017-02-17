@@ -1,0 +1,16 @@
+<map id="SSL_copy_session_id" name="SSL_copy_session_id">
+<area shape="rect" id="node2" href="$ssl__cert_8c.html#abcdde0dc39325e21addbcf6ca8ed94dc" title="ssl_cert_free" alt="" coords="228,104,326,129"/>
+<area shape="rect" id="node3" href="$ssl_8h.html#a79838380e277a3b4dead9f408aaabfbd" title="SSL_get_session" alt="" coords="214,153,339,179"/>
+<area shape="rect" id="node4" href="$ssl_8h.html#af424f12a69df628f2b42cd2a5ff3ebc1" title="SSL_set_session" alt="" coords="215,203,339,228"/>
+<area shape="rect" id="node15" href="$ssl__lib_8c.html#abf1bf88f2a543f1855fa97d42e581660" title="SSL_set_session_id\l_context" alt="" coords="206,252,348,291"/>
+<area shape="rect" id="node5" href="$ssl__sess_8c.html#ae64d80a6acc4b692ccaf30ab16cc70a1" title="ssl_clear_bad_session" alt="" coords="397,104,553,129"/>
+<area shape="rect" id="node9" href="$ssl__sess_8c.html#a3021bf725c2aa14ce9b4aeffc8868788" title="SSL_SESSION_free" alt="" coords="403,177,547,203"/>
+<area shape="rect" id="node13" href="$ssl__sess_8c.html#a0c3d9884e4446417e1929da476d8439c" title="SSL_SESSION_up_ref" alt="" coords="396,227,554,252"/>
+<area shape="rect" id="node14" href="$ssl_8h.html#a5f48f35898c8f1b82ccfab34eac0835b" title="SSL_set_ssl_method" alt="" coords="402,276,549,301"/>
+<area shape="rect" id="node6" href="$ssl_8h.html#a8bcb06e82fc1107090412d76163045f5" title="SSL_in_init" alt="" coords="658,5,747,31"/>
+<area shape="rect" id="node7" href="$ssl_8h.html#a9a3a46a50dce060ea08521cf1b1cfe42" title="SSL_in_before" alt="" coords="648,55,757,80"/>
+<area shape="rect" id="node8" href="$ssl__sess_8c.html#a7404d342b34266b370cc94b7acd07178" title="SSL_CTX_remove_session" alt="" coords="610,104,795,129"/>
+<area shape="rect" id="node10" href="$ex__data_8c.html#a0ab5fa7e84dfdcb691f88aac8ddefd22" title="CRYPTO_free_ex_data" alt="" coords="622,153,783,179"/>
+<area shape="rect" id="node11" href="$mem__clr_8c.html#a2aa47e40c63b05d00e9a780592f2a2b8" title="OPENSSL_cleanse" alt="" coords="634,203,771,228"/>
+<area shape="rect" id="node12" href="$threads__none_8c.html#aa57dbba3eb22960dd5bc4acd72daaef6" title="CRYPTO_THREAD_lock_free" alt="" coords="602,252,803,277"/>
+</map>

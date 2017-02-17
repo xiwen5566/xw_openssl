@@ -1,0 +1,7 @@
+<map id="SSL_SESSION_up_ref" name="SSL_SESSION_up_ref">
+<area shape="rect" id="node2" href="$ssl__sess_8c.html#a2335680d1d30f6390935b96dbe05ef0e" title="SSL_get1_session" alt="" coords="212,5,344,31"/>
+<area shape="rect" id="node3" href="$ssl__sess_8c.html#aebc427b571a838dbd48f8f3710cd1f95" title="SSL_set_session" alt="" coords="216,55,340,80"/>
+<area shape="rect" id="node6" href="$ssl__locl_8h.html#acd0dff6005ae755ebe1b6314dbf6b45e" title="ssl_update_cache" alt="" coords="214,104,342,129"/>
+<area shape="rect" id="node4" href="$ssl__lib_8c.html#a2d56e559331cd2c92ee85f64cd56830f" title="SSL_copy_session_id" alt="" coords="392,55,545,80"/>
+<area shape="rect" id="node5" href="$bio__ssl_8c.html#a92613b200326a8ff23de99826349ee46" title="BIO_ssl_copy_session_id" alt="" coords="593,55,767,80"/>
+</map>

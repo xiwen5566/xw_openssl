@@ -1,0 +1,6 @@
+<map id="EC_KEY_set_public_key" name="EC_KEY_set_public_key">
+<area shape="rect" id="node2" href="$ec__lib_8c.html#a454f5d1d8a37673107646504909bfb6d" title="EC_POINT_dup" alt="" coords="223,53,341,79"/>
+<area shape="rect" id="node5" href="$ec__lib_8c.html#a7defc41c1babb9e601de2d50c9fc81b5" title="EC_POINT_free" alt="" coords="391,104,510,129"/>
+<area shape="rect" id="node3" href="$ec__lib_8c.html#a81baecc872e63a5fd0b35853b3c744ef" title="EC_POINT_new" alt="" coords="390,5,510,31"/>
+<area shape="rect" id="node4" href="$ec__lib_8c.html#abebd5e584d2f0d788ec93f52666b6c00" title="EC_POINT_copy" alt="" coords="389,55,512,80"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="X509_policy_tree_free" name="X509_policy_tree_free">
+<area shape="rect" id="node2" href="$x509__vfy_8h.html#a8ff79593c52dcc4c9e63bfb7146bb9e3" title="X509_STORE_CTX_cleanup" alt="" coords="208,31,402,56"/>
+<area shape="rect" id="node3" href="$x509__vfy_8h.html#a7fad77ce519c90dc4c9dca799abc80e1" title="X509_STORE_CTX_free" alt="" coords="450,31,620,56"/>
+<area shape="rect" id="node4" href="$ssl__locl_8h.html#a7d031887022afcecabaef8f4f7f858a4" title="ssl_verify_cert_chain" alt="" coords="668,5,814,31"/>
+<area shape="rect" id="node5" href="$ssl__locl_8h.html#a92b579f69306fca426a979dff84bf62a" title="ssl_build_cert_chain" alt="" coords="670,55,812,80"/>
+</map>

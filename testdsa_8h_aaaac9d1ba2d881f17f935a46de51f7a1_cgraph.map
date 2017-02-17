@@ -1,0 +1,5 @@
+<map id="get_dsa1024" name="get_dsa1024">
+<area shape="rect" id="node2" href="$bn__lib_8c.html#a9ca9a524bd4c4de12ae0947872c5182b" title="BN_bin2bn" alt="" coords="152,5,239,31"/>
+<area shape="rect" id="node3" href="$dsa__lib_8c.html#a17f81623b8a2b2c8764bba24a0f5be42" title="DSA_new" alt="" coords="155,55,236,80"/>
+<area shape="rect" id="node4" href="$dsa__lib_8c.html#a7089430cae14b585dc321b39df3397e2" title="DSA_new_method" alt="" coords="287,55,420,80"/>
+</map>

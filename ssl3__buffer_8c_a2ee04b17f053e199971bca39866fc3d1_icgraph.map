@@ -1,0 +1,6 @@
+<map id="ssl3_setup_write_buffer" name="ssl3_setup_write_buffer">
+<area shape="rect" id="node2" href="$ssl3__buffer_8c.html#af701be66699ae08c913f1bb719cd48bb" title="ssl3_setup_buffers" alt="" coords="215,5,348,31"/>
+<area shape="rect" id="node3" href="$record__locl_8h.html#aeeff7210b2ca8c216d73471154de504e" title="dtls1_buffer_record" alt="" coords="396,5,532,31"/>
+<area shape="rect" id="node4" href="$ssl3__record_8c.html#add879ec219025dd2dce3a714a363d18c" title="dtls1_get_record" alt="" coords="788,5,909,31"/>
+<area shape="rect" id="node5" href="$record__locl_8h.html#a152e40dd2a65f190a77801a5fbe5544f" title="dtls1_process_buffered\l_records" alt="" coords="580,27,740,65"/>
+</map>

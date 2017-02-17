@@ -1,0 +1,6 @@
+<map id="tls_construct_client_certificate" name="tls_construct_client_certificate">
+<area shape="rect" id="node2" href="$ssl__locl_8h.html#ab28e2bb5b5ef7b8bb62df36cc5fd5658" title="ssl3_output_cert_chain" alt="" coords="188,5,347,31"/>
+<area shape="rect" id="node3" href="$s3__msg_8c.html#a9e42a91e282847c50bd4cf748c5d4618" title="ssl3_send_alert" alt="" coords="210,55,325,80"/>
+<area shape="rect" id="node4" href="$rec__layer__s3_8c.html#a68eea9e4f1c9a46f2aabb346a1272bce" title="RECORD_LAYER_write\l_pending" alt="" coords="405,20,569,59"/>
+<area shape="rect" id="node5" href="$ssl_8h.html#a0b1799f93fc382f92cb1ba58a25b1c90" title="SSL_CTX_remove_session" alt="" coords="395,83,580,108"/>
+</map>

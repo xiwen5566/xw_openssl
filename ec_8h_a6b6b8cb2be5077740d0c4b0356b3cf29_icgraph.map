@@ -1,0 +1,6 @@
+<map id="EC_GROUP_method_of" name="EC_GROUP_method_of">
+<area shape="rect" id="node2" href="$ec_8h.html#ab1f28f8ce89fbabc97d96d2eb9dc4d54" title="EC_GROUP_get_basis_type" alt="" coords="224,5,418,31"/>
+<area shape="rect" id="node3" href="$ec_8h.html#a059c37cc15312afc64b114f1c3f25dae" title="EC_GROUP_get_pentanomial\l_basis" alt="" coords="220,55,422,93"/>
+<area shape="rect" id="node4" href="$ec_8h.html#a1b36047c8a06bad7a13aab8032db0184" title="EC_KEY_copy" alt="" coords="266,117,376,143"/>
+<area shape="rect" id="node5" href="$ec_8h.html#a41a2cd29a7c9538e53c47631d8ece192" title="EC_KEY_set_public_key\l_affine_coordinates" alt="" coords="236,167,406,205"/>
+</map>

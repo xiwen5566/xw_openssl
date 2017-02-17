@@ -1,0 +1,18 @@
+<map id="SCT_LIST_validate" name="SCT_LIST_validate">
+<area shape="rect" id="node2" href="$ct__sct_8c.html#a94659fc4c4d0a9fbd6bf5a9ffc334d22" title="SCT_validate" alt="" coords="190,291,292,316"/>
+<area shape="rect" id="node3" href="$ct__log_8c.html#abd40fbd0a9882e773611618c4f481c41" title="CTLOG_STORE_get0_log\l_by_id" alt="" coords="340,5,519,44"/>
+<area shape="rect" id="node4" href="$ct__locl_8h.html#a13b0eca8babde7d1e0c688b256c69979" title="SCT_CTX_new" alt="" coords="372,68,486,93"/>
+<area shape="rect" id="node5" href="$x509_8h.html#af3b9ed771d6bc373f71f3b52c588b02d" title="X509_PUBKEY_set" alt="" coords="360,117,499,143"/>
+<area shape="rect" id="node6" href="$ct__log_8c.html#a3b11dced279a9dc76ae1f618bf1605b1" title="CTLOG_get0_public_key" alt="" coords="344,167,515,192"/>
+<area shape="rect" id="node7" href="$ct__locl_8h.html#a8d9e4ae0c2b56de31eee1b8fbcdb9ee0" title="SCT_CTX_set1_pubkey" alt="" coords="347,216,512,241"/>
+<area shape="rect" id="node9" href="$ct__sct_8c.html#a8b65c21add1e14e2054cd0fb86ef3dbd" title="SCT_get_log_entry_type" alt="" coords="345,265,514,291"/>
+<area shape="rect" id="node10" href="$x509__cmp_8c.html#a8539875518b6f4a42c424de19a48ed80" title="X509_get0_pubkey" alt="" coords="361,315,497,340"/>
+<area shape="rect" id="node12" href="$ct__locl_8h.html#ab3d0a38fd40390410c760b4bd24f0536" title="SCT_CTX_set1_issuer\l_pubkey" alt="" coords="350,364,508,403"/>
+<area shape="rect" id="node13" href="$ct__locl_8h.html#a6abcd972cf4e0aec3fd0b21136b43fb6" title="SCT_CTX_set_time" alt="" coords="359,427,499,452"/>
+<area shape="rect" id="node14" href="$ct__locl_8h.html#a065eb26992fc05a5f46ade88c68c00a8" title="SCT_CTX_set1_cert" alt="" coords="357,476,501,501"/>
+<area shape="rect" id="node15" href="$ct__locl_8h.html#a6bffe8bc19fbc3ecc8afb2938bc35b76" title="SCT_CTX_verify" alt="" coords="368,525,490,551"/>
+<area shape="rect" id="node16" href="$ct__locl_8h.html#a9a4c4c33ba7c56ece4d106d2c749302d" title="SCT_CTX_free" alt="" coords="373,575,485,600"/>
+<area shape="rect" id="node8" href="$x509_8h.html#a6f77c030e116939bbb3df6381b1ffdb1" title="X509_PUBKEY_get" alt="" coords="570,216,710,241"/>
+<area shape="rect" id="node11" href="$x509_8h.html#aec73b1ba7416fd4b22ba51d4aceeadd1" title="X509_PUBKEY_get0" alt="" coords="567,315,714,340"/>
+<area shape="rect" id="node17" href="$p__lib_8c.html#a28ca835622ca370a0cf935ec5977f65d" title="EVP_PKEY_free" alt="" coords="580,575,701,600"/>
+</map>

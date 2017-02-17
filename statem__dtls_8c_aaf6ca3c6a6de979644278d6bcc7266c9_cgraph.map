@@ -1,0 +1,5 @@
+<map id="dtls1_close_construct_packet" name="dtls1_close_construct_packet">
+<area shape="rect" id="node2" href="$statem__dtls_8c.html#a7714f3d837bdb1e6d4bd6c83839497aa" title="dtls1_buffer_message" alt="" coords="205,5,357,31"/>
+<area shape="rect" id="node3" href="$packet_8c.html#aac8728576d7575c207f6e9407e9c66a6" title="WPACKET_close" alt="" coords="218,55,343,80"/>
+<area shape="rect" id="node4" href="$packet_8c.html#a4b18eb67a9ef01981714cc49d72af37f" title="WPACKET_get_length" alt="" coords="203,104,359,129"/>
+</map>

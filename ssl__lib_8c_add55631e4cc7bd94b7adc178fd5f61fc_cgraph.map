@@ -1,0 +1,11 @@
+<map id="ssl_init_wbio_buffer" name="ssl_init_wbio_buffer">
+<area shape="rect" id="node2" href="$bf__buff_8c.html#ae2473798e8016bcc5e034a035ac5beeb" title="BIO_f_buffer" alt="" coords="192,5,288,31"/>
+<area shape="rect" id="node3" href="$bio__lib_8c.html#abbfb67b5eb998ce232f2482b097da8b2" title="BIO_free" alt="" coords="203,55,277,80"/>
+<area shape="rect" id="node4" href="$bio__lib_8c.html#a269e7dc758c694fbdbcc0d3ab2a2058f" title="BIO_new" alt="" coords="202,104,278,129"/>
+<area shape="rect" id="node9" href="$bio__lib_8c.html#aa762cda8263c4e3d0a782090169b6baf" title="BIO_push" alt="" coords="200,177,280,203"/>
+<area shape="rect" id="node5" href="$ex__data_8c.html#a0ab5fa7e84dfdcb691f88aac8ddefd22" title="CRYPTO_free_ex_data" alt="" coords="356,5,518,31"/>
+<area shape="rect" id="node6" href="$ex__data_8c.html#a2be01d9b6b916d48a8a1be08af6bad3c" title="CRYPTO_new_ex_data" alt="" coords="355,55,519,80"/>
+<area shape="rect" id="node7" href="$threads__none_8c.html#aa57dbba3eb22960dd5bc4acd72daaef6" title="CRYPTO_THREAD_lock_free" alt="" coords="337,104,537,129"/>
+<area shape="rect" id="node8" href="$threads__none_8c.html#a40b9f37a1d77d0d4ac0721a27fec541d" title="CRYPTO_THREAD_lock_new" alt="" coords="336,153,538,179"/>
+<area shape="rect" id="node10" href="$bio__lib_8c.html#af91d25b1b326df959b3b5d05a1891577" title="BIO_ctrl" alt="" coords="402,203,472,228"/>
+</map>

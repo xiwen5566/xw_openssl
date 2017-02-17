@@ -1,0 +1,6 @@
+<map id="ACCESS_DESCRIPTION" name="ACCESS_DESCRIPTION">
+<area shape="rect" id="node2" href="$structGENERAL__NAME.html" title="GENERAL_NAME" alt="" coords="97,180,228,205"/>
+<area shape="rect" id="node3" href="$structOTHERNAME.html" title="OTHERNAME" alt="" coords="109,93,216,118"/>
+<area shape="rect" id="node4" href="$structASN1__TYPE.html" title="ASN1_TYPE" alt="" coords="5,5,104,31"/>
+<area shape="rect" id="node5" href="$structEDIPARTYNAME.html" title="EDIPARTYNAME" alt="" coords="240,93,365,118"/>
+</map>

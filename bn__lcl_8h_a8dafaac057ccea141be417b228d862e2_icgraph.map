@@ -1,0 +1,8 @@
+<map id="bn_cmp_words" name="bn_cmp_words">
+<area shape="rect" id="node2" href="$bn__lib_8c.html#ab5e7dcb0d066f21a51167d28eac0cc53" title="bn_cmp_part_words" alt="" coords="165,55,307,80"/>
+<area shape="rect" id="node6" href="$bn__mul_8c.html#a6e87ca1b4132e92a81ced0dd02ecef19" title="bn_mul_high" alt="" coords="559,104,657,129"/>
+<area shape="rect" id="node7" href="$bn__sqr_8c.html#ab92b4512c18f3a9b8825411a0e310693" title="bn_sqr_recursive" alt="" coords="174,156,298,181"/>
+<area shape="rect" id="node3" href="$bn__mul_8c.html#a3d5f82c8bab37b71a56a6e7c5c649cd3" title="bn_mul_recursive" alt="" coords="355,55,482,80"/>
+<area shape="rect" id="node4" href="$bn__mul_8c.html#a592088e87d0969178205f9653ce58d8b" title="bn_mul_part_recursive" alt="" coords="530,5,687,31"/>
+<area shape="rect" id="node5" href="$bn__mul_8c.html#a53755fa8fd973a929ea5a5302d301109" title="bn_mul_low_recursive" alt="" coords="531,55,685,80"/>
+</map>

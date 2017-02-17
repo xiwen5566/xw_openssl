@@ -1,0 +1,5 @@
+<map id="ossl_statem_set_sctp_read_sock" name="ossl_statem_set_sctp_read_sock">
+<area shape="rect" id="node2" href="$statem__locl_8h.html#a2fa55dc1ddc52ea667912279660a31d8" title="ossl_statem_client\l_post_process_message" alt="" coords="203,5,372,44"/>
+<area shape="rect" id="node3" href="$statem__srvr_8c.html#ade27308ee6634f2208661c3ee52f6983" title="ossl_statem_server\l_post_process_message" alt="" coords="420,92,590,131"/>
+<area shape="rect" id="node4" href="$statem__srvr_8c.html#a79c5861d6651cb02408904186ba494a8" title="tls_post_process_client\l_key_exchange" alt="" coords="208,120,368,159"/>
+</map>

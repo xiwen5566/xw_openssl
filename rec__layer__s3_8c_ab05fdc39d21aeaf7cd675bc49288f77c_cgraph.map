@@ -1,0 +1,10 @@
+<map id="RECORD_LAYER_clear" name="RECORD_LAYER_clear">
+<area shape="rect" id="node2" href="$rec__layer__d1_8c.html#aaa9f6b1c214407dc9dd22000b06f9296" title="DTLS_RECORD_LAYER_clear" alt="" coords="219,29,426,55"/>
+<area shape="rect" id="node5" href="$rec__layer__s3_8c.html#a423a5b91cb51542fa3c92003935284a1" title="RECORD_LAYER_reset\l_read_sequence" alt="" coords="239,79,406,117"/>
+<area shape="rect" id="node6" href="$rec__layer__s3_8c.html#adabc899a1b8db67aa5edabfee8f284fb" title="RECORD_LAYER_reset\l_write_sequence" alt="" coords="239,141,406,180"/>
+<area shape="rect" id="node7" href="$record__locl_8h.html#ac0c32d41be7498d96df126a3889fe77c" title="SSL3_BUFFER_clear" alt="" coords="247,204,398,229"/>
+<area shape="rect" id="node8" href="$record__locl_8h.html#ad086e0c21f3ad9b76dd2e8b6cde1631e" title="SSL3_RECORD_clear" alt="" coords="245,253,400,279"/>
+<area shape="rect" id="node9" href="$record__locl_8h.html#aac0c3f7ec6b7af464718a20e25010b99" title="ssl3_release_write\l_buffer" alt="" coords="257,303,388,341"/>
+<area shape="rect" id="node3" href="$pqueue_8c.html#aaf7c05ae52d91d8936012d52f58b584f" title="pitem_free" alt="" coords="480,5,564,31"/>
+<area shape="rect" id="node4" href="$pqueue_8c.html#ad6fd7f4360dedd4ae047f205dee7e1d2" title="pqueue_pop" alt="" coords="474,55,569,80"/>
+</map>

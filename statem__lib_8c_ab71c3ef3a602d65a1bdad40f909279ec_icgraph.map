@@ -1,0 +1,9 @@
+<map id="ssl_allow_compression" name="ssl_allow_compression">
+<area shape="rect" id="node2" href="$ssl3__buffer_8c.html#abb5cda7d91b20c71246faae4bbab2862" title="ssl3_setup_read_buffer" alt="" coords="212,7,373,32"/>
+<area shape="rect" id="node8" href="$ssl3__buffer_8c.html#a2ee04b17f053e199971bca39866fc3d1" title="ssl3_setup_write_buffer" alt="" coords="212,56,374,81"/>
+<area shape="rect" id="node3" href="$record__locl_8h.html#a33d31faa5a678673d00ad05911d7a54c" title="ssl3_read_n" alt="" coords="624,5,718,31"/>
+<area shape="rect" id="node5" href="$ssl3__buffer_8c.html#af701be66699ae08c913f1bb719cd48bb" title="ssl3_setup_buffers" alt="" coords="422,56,555,81"/>
+<area shape="rect" id="node4" href="$ssl3__record_8c.html#add879ec219025dd2dce3a714a363d18c" title="dtls1_get_record" alt="" coords="994,56,1115,81"/>
+<area shape="rect" id="node6" href="$record__locl_8h.html#aeeff7210b2ca8c216d73471154de504e" title="dtls1_buffer_record" alt="" coords="603,56,739,81"/>
+<area shape="rect" id="node7" href="$record__locl_8h.html#a152e40dd2a65f190a77801a5fbe5544f" title="dtls1_process_buffered\l_records" alt="" coords="787,107,946,145"/>
+</map>

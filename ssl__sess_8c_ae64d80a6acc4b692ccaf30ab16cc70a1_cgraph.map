@@ -1,0 +1,5 @@
+<map id="ssl_clear_bad_session" name="ssl_clear_bad_session">
+<area shape="rect" id="node2" href="$ssl__sess_8c.html#a7404d342b34266b370cc94b7acd07178" title="SSL_CTX_remove_session" alt="" coords="210,5,395,31"/>
+<area shape="rect" id="node3" href="$ssl_8h.html#a9a3a46a50dce060ea08521cf1b1cfe42" title="SSL_in_before" alt="" coords="247,55,357,80"/>
+<area shape="rect" id="node4" href="$ssl_8h.html#a8bcb06e82fc1107090412d76163045f5" title="SSL_in_init" alt="" coords="258,104,347,129"/>
+</map>

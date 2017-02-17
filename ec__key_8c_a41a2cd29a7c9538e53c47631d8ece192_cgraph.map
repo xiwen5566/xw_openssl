@@ -1,0 +1,21 @@
+<map id="EC_KEY_set_public_key_affine_coordinates" name="EC_KEY_set_public_key_affine_coordinates">
+<area shape="rect" id="node2" href="$bn__lib_8c.html#ac18ade9dbb4531d8cc3a38d3c970c0e0" title="BN_cmp" alt="" coords="284,5,357,31"/>
+<area shape="rect" id="node3" href="$bn__ctx_8c.html#a79f7595a61a3e72069857a3e43902a56" title="BN_CTX_end" alt="" coords="269,55,372,80"/>
+<area shape="rect" id="node4" href="$bn__ctx_8c.html#a4f35207c3ff8486de118413e9361768d" title="BN_CTX_free" alt="" coords="268,104,373,129"/>
+<area shape="rect" id="node5" href="$bn__ctx_8c.html#a606a551f58535bd3e7b530c4712dd369" title="BN_CTX_get" alt="" coords="271,153,371,179"/>
+<area shape="rect" id="node6" href="$bn__ctx_8c.html#a04a38b774caf5e9bb7dea8b22c6eddc2" title="BN_CTX_new" alt="" coords="268,203,374,228"/>
+<area shape="rect" id="node7" href="$bn__ctx_8c.html#a47741d3f4189363af52494a962178b2e" title="BN_CTX_start" alt="" coords="267,252,374,277"/>
+<area shape="rect" id="node8" href="$ec__lib_8c.html#a6b6b8cb2be5077740d0c4b0356b3cf29" title="EC_GROUP_method_of" alt="" coords="237,301,404,327"/>
+<area shape="rect" id="node9" href="$ec__key_8c.html#a5ed8c9115f5a7f7a09245418f8e13a8a" title="EC_KEY_check_key" alt="" coords="248,351,393,376"/>
+<area shape="rect" id="node10" href="$ec__key_8c.html#aadc06bc870e18871277a8de4acac00ca" title="EC_KEY_set_public_key" alt="" coords="236,452,405,477"/>
+<area shape="rect" id="node12" href="$ec__lib_8c.html#a81baecc872e63a5fd0b35853b3c744ef" title="EC_POINT_new" alt="" coords="684,527,803,552"/>
+<area shape="rect" id="node14" href="$ec__lib_8c.html#a7defc41c1babb9e601de2d50c9fc81b5" title="EC_POINT_free" alt="" coords="684,427,803,452"/>
+<area shape="rect" id="node15" href="$ec__lib_8c.html#ae220108aa1330e370261a9d74ba99115" title="EC_METHOD_get_field_type" alt="" coords="223,553,418,579"/>
+<area shape="rect" id="node16" href="$ec__lib_8c.html#a77e66ebfca956f395b6ddb39dea3ea49" title="EC_POINT_get_affine\l_coordinates_GF2m" alt="" coords="244,603,398,641"/>
+<area shape="rect" id="node17" href="$ec__lib_8c.html#a1920a4a8d6fca97d06d210c98406a810" title="EC_POINT_get_affine\l_coordinates_GFp" alt="" coords="244,665,398,704"/>
+<area shape="rect" id="node18" href="$ec__lib_8c.html#afccf1361568ddda80ec129f5d440447f" title="EC_POINT_set_affine\l_coordinates_GF2m" alt="" coords="244,728,397,767"/>
+<area shape="rect" id="node20" href="$ec__lib_8c.html#a8c4324aa9855512643bf521184ed19c5" title="EC_POINT_set_affine\l_coordinates_GFp" alt="" coords="244,791,397,829"/>
+<area shape="rect" id="node11" href="$ec__lib_8c.html#a454f5d1d8a37673107646504909bfb6d" title="EC_POINT_dup" alt="" coords="491,477,609,503"/>
+<area shape="rect" id="node13" href="$ec__lib_8c.html#abebd5e584d2f0d788ec93f52666b6c00" title="EC_POINT_copy" alt="" coords="682,477,805,503"/>
+<area shape="rect" id="node19" href="$ec__lib_8c.html#af660a86663573eb127f71971ead74a60" title="EC_POINT_is_on_curve" alt="" coords="466,765,634,791"/>
+</map>

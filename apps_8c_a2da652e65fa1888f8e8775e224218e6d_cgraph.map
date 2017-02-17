@@ -1,0 +1,5 @@
+<map id="raw_write_stdout" name="raw_write_stdout">
+<area shape="rect" id="node2" href="$apps_8c.html#a2f9cc5f0d58f7f038e93145ee4669d5d" title="fileno_stdout" alt="" coords="175,5,272,31"/>
+<area shape="rect" id="node3" href="$apps_8c.html#a762778e8f5e6d85d718f071d4d1d2300" title="raw_read_stdin" alt="" coords="320,31,433,56"/>
+<area shape="rect" id="node4" href="$apps_8c.html#a76f50b91eb90541bd4d06eeef8e7f4ea" title="fileno_stdin" alt="" coords="481,31,570,56"/>
+</map>

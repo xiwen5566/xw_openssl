@@ -1,0 +1,4 @@
+<map id="dtls1_clear_sent_buffer" name="dtls1_clear_sent_buffer">
+<area shape="rect" id="node2" href="$ssl__locl_8h.html#a8c999443aff82388742536af7fc2b4c2" title="dtls1_stop_timer" alt="" coords="222,5,341,31"/>
+<area shape="rect" id="node3" href="$statem__srvr_8c.html#a083dda8442837ab01b8f911cc0b0d8c4" title="ossl_statem_server\l_pre_work" alt="" coords="213,55,350,93"/>
+</map>

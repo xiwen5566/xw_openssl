@@ -1,0 +1,6 @@
+<map id="i2d_PrivateKey" name="i2d_PrivateKey">
+<area shape="rect" id="node2" href="$x509_8h.html#abc51cb215d33a4c10347841c290b3cf6" title="i2d_PrivateKey_bio" alt="" coords="188,5,324,31"/>
+<area shape="rect" id="node3" href="$x509_8h.html#a95d9f95b4d740d9e74449d24d535212f" title="i2d_PrivateKey_fp" alt="" coords="191,55,321,80"/>
+<area shape="rect" id="node4" href="$pem_8h.html#af2d75e4766dc5a28754c1c40a265c9b0" title="PEM_write_bio_PrivateKey\l_traditional" alt="" coords="164,104,347,143"/>
+<area shape="rect" id="node5" href="$pem__pkey_8c.html#ac1eebf0c57bc10a6e333a1e857cfb80f" title="PEM_write_bio_PrivateKey" alt="" coords="395,111,578,136"/>
+</map>

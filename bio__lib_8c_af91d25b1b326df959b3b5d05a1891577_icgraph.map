@@ -1,0 +1,32 @@
+<map id="BIO_ctrl" name="BIO_ctrl">
+<area shape="rect" id="node2" href="$openssl_2bio_8h.html#a1fbc027d3de64643ab2aa71bed2da533" title="BIO_ctrl_get_read_request" alt="" coords="123,5,304,31"/>
+<area shape="rect" id="node3" href="$openssl_2bio_8h.html#a0b5555254cabc069f1c90c98e769493a" title="BIO_ctrl_get_write\l_guarantee" alt="" coords="148,55,279,93"/>
+<area shape="rect" id="node4" href="$openssl_2bio_8h.html#a850a8d2558c44014d0e9e32f9fd86b76" title="BIO_ctrl_pending" alt="" coords="151,117,276,143"/>
+<area shape="rect" id="node5" href="$openssl_2bio_8h.html#abfd8e59d4de70257f51e3a5afab72bbd" title="BIO_ctrl_reset_read\l_request" alt="" coords="143,167,284,205"/>
+<area shape="rect" id="node6" href="$openssl_2bio_8h.html#a7368038e0e4fbfd2ef56ad0226cea952" title="BIO_ctrl_wpending" alt="" coords="147,229,281,255"/>
+<area shape="rect" id="node7" href="$openssl_2bio_8h.html#a20109c83c5a74c11a8551cb819863612" title="BIO_int_ctrl" alt="" coords="168,279,259,304"/>
+<area shape="rect" id="node8" href="$openssl_2bio_8h.html#a75e70a161e37527990147f9e514d5b9d" title="BIO_ptr_ctrl" alt="" coords="167,328,260,353"/>
+<area shape="rect" id="node9" href="$openssl_2bio_8h.html#a4e509280cddd4eb3537fe7e3bc0827a9" title="BIO_push" alt="" coords="173,377,254,403"/>
+<area shape="rect" id="node19" href="$record__locl_8h.html#aeeff7210b2ca8c216d73471154de504e" title="dtls1_buffer_record" alt="" coords="146,427,282,452"/>
+<area shape="rect" id="node22" href="$ssl__locl_8h.html#af1eda62876df3c7d1d61d2dea9aaeb6b" title="dtls1_check_timeout_num" alt="" coords="125,476,302,501"/>
+<area shape="rect" id="node25" href="$ssl__locl_8h.html#ad4f2fda95124cc589b4a7adce9e68e96" title="dtls1_query_mtu" alt="" coords="154,525,273,551"/>
+<area shape="rect" id="node26" href="$ssl__locl_8h.html#a8c999443aff82388742536af7fc2b4c2" title="dtls1_stop_timer" alt="" coords="154,575,273,600"/>
+<area shape="rect" id="node27" href="$statem__locl_8h.html#ab0adfd5a6a75b5442ca738c33ad32e4b" title="ossl_statem_client\l_post_work" alt="" coords="372,691,503,729"/>
+<area shape="rect" id="node28" href="$statem__srvr_8c.html#a949295775b6290f05e034846b7fa5576" title="ossl_statem_server\l_post_work" alt="" coords="145,676,282,715"/>
+<area shape="rect" id="node29" href="$statem__locl_8h.html#a9ea8008e35ed4895eb05c4bc36543c83" title="tls_client_key_exchange\l_post_work" alt="" coords="130,739,297,777"/>
+<area shape="rect" id="node30" href="$statem__srvr_8c.html#a79c5861d6651cb02408904186ba494a8" title="tls_post_process_client\l_key_exchange" alt="" coords="134,801,294,840"/>
+<area shape="rect" id="node10" href="$ocsp_8c.html#ab397ce99e95e59b13ddcf4f40db88e80" title="process_responder" alt="" coords="369,179,505,204"/>
+<area shape="rect" id="node11" href="$asn1_8h.html#a9733cdb626618d20a99ee483bcfa55aa" title="SMIME_crlf_copy" alt="" coords="374,228,500,253"/>
+<area shape="rect" id="node12" href="$cms_8h.html#af321d3ecf3ee6e9d3dbdbc8a7b572917" title="CMS_dataInit" alt="" coords="386,277,488,303"/>
+<area shape="rect" id="node14" href="$ssl__lib_8c.html#ab87954fd3e0b96ee5ccae4ca8b9a144f" title="SSL_set0_wbio" alt="" coords="380,327,494,352"/>
+<area shape="rect" id="node16" href="$ssltestlib_8h.html#a7fbef819d52bb292f68b0476e10d50bf" title="create_ssl_objects" alt="" coords="741,328,872,353"/>
+<area shape="rect" id="node18" href="$ssl__locl_8h.html#a5e0ab85b374c8418b39df78ec51be27f" title="ssl_init_wbio_buffer" alt="" coords="368,428,506,453"/>
+<area shape="rect" id="node13" href="$cms_8h.html#af982b5d6dc72ed24c93441b27bc0a746" title="CMS_data" alt="" coords="589,228,673,253"/>
+<area shape="rect" id="node15" href="$ssl__lib_8c.html#a21833ef0aa9dea0bee9c0827a38d539d" title="SSL_set_bio" alt="" coords="583,277,680,303"/>
+<area shape="rect" id="node17" href="$ssl__lib_8c.html#a9c991299110db231c0c391612794c142" title="SSL_set_wfd" alt="" coords="581,327,681,352"/>
+<area shape="rect" id="node20" href="$record__locl_8h.html#a152e40dd2a65f190a77801a5fbe5544f" title="dtls1_process_buffered\l_records" alt="" coords="357,477,517,516"/>
+<area shape="rect" id="node21" href="$ssl3__record_8c.html#add879ec219025dd2dce3a714a363d18c" title="dtls1_get_record" alt="" coords="571,513,692,539"/>
+<area shape="rect" id="node23" href="$ssl__locl_8h.html#a7ec8af97850fe8c80b6d2add11d99942" title="dtls1_handle_timeout" alt="" coords="363,592,511,617"/>
+<area shape="rect" id="node24" href="$statem__dtls_8c.html#a74a1f2b26271f8af2f467711e8b58ace" title="dtls1_read_failed" alt="" coords="570,592,693,617"/>
+<area shape="rect" id="node31" href="$statem__srvr_8c.html#ade27308ee6634f2208661c3ee52f6983" title="ossl_statem_server\l_post_process_message" alt="" coords="352,801,522,840"/>
+</map>

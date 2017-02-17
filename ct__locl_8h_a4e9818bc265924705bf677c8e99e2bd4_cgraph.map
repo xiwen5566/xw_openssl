@@ -1,0 +1,4 @@
+<map id="SCT_CTX_set1_issuer" name="SCT_CTX_set1_issuer">
+<area shape="rect" id="node2" href="$ct__sct__ctx_8c.html#a40c4ac74152b6cca134b3e1666e1ca95" title="SCT_CTX_set1_issuer\l_pubkey" alt="" coords="221,5,379,44"/>
+<area shape="rect" id="node3" href="$x509__set_8c.html#a4d5317995f296d99fe401e98319b2055" title="X509_get_X509_PUBKEY" alt="" coords="211,68,390,93"/>
+</map>

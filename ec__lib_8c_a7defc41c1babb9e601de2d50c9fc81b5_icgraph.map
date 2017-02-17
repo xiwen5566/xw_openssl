@@ -1,0 +1,15 @@
+<map id="EC_POINT_free" name="EC_POINT_free">
+<area shape="rect" id="node2" href="$ec__mult_8c.html#a3923de1dbac2078706283d04231cb272" title="EC_ec_pre_comp_free" alt="" coords="172,155,330,180"/>
+<area shape="rect" id="node4" href="$ec_8h.html#a7d7ba223c4dffba134c295ff77e56a90" title="EC_GROUP_free" alt="" coords="617,104,744,129"/>
+<area shape="rect" id="node5" href="$ec_8h.html#af3759e18dd8bf0c3144527c0377668a7" title="EC_KEY_free" alt="" coords="837,5,941,31"/>
+<area shape="rect" id="node7" href="$ec_8h.html#a1b36047c8a06bad7a13aab8032db0184" title="EC_KEY_copy" alt="" coords="834,205,944,231"/>
+<area shape="rect" id="node12" href="$ec_8h.html#ab3456a0d8ea13abb1e0c4c79fa0fef48" title="EC_KEY_set_public_key" alt="" coords="378,307,548,332"/>
+<area shape="rect" id="node13" href="$ec_8h.html#a41a2cd29a7c9538e53c47631d8ece192" title="EC_KEY_set_public_key\l_affine_coordinates" alt="" coords="596,277,765,316"/>
+<area shape="rect" id="node14" href="$ec_8h.html#ad84108f54596e84282cbd38044d27b33" title="EC_POINT_dup" alt="" coords="192,307,310,332"/>
+<area shape="rect" id="node3" href="$ec__lib_8c.html#a1d80ad7c923acd02227d1700ab0de4da" title="EC_pre_comp_free" alt="" coords="394,155,531,180"/>
+<area shape="rect" id="node10" href="$ec_8h.html#a1178dd4601435705cde07e2c6a6b7e65" title="EC_GROUP_clear_free" alt="" coords="599,155,762,180"/>
+<area shape="rect" id="node8" href="$ec_8h.html#a384a92a00677065b4d2d3a5cc56f1e5b" title="EC_KEY_set_group" alt="" coords="1013,81,1154,107"/>
+<area shape="rect" id="node9" href="$ec_8h.html#ace0ab0bff19e37298b7dc761dd5745ea" title="EC_GROUP_dup" alt="" coords="826,107,952,132"/>
+<area shape="rect" id="node6" href="$s__cb_8c.html#a60ded9b8ee2c3e0c085a2aa43dc764e1" title="ssl_print_tmp_key" alt="" coords="1019,5,1148,31"/>
+<area shape="rect" id="node11" href="$ec_8h.html#a802ab415c71434884e409602a2236227" title="d2i_ECPKParameters" alt="" coords="813,156,965,181"/>
+</map>

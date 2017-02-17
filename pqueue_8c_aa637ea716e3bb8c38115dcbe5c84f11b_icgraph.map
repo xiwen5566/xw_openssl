@@ -1,0 +1,5 @@
+<map id="pqueue_size" name="pqueue_size">
+<area shape="rect" id="node2" href="$record__locl_8h.html#aeeff7210b2ca8c216d73471154de504e" title="dtls1_buffer_record" alt="" coords="150,41,286,67"/>
+<area shape="rect" id="node3" href="$record__locl_8h.html#a152e40dd2a65f190a77801a5fbe5544f" title="dtls1_process_buffered\l_records" alt="" coords="334,5,494,44"/>
+<area shape="rect" id="node4" href="$ssl3__record_8c.html#add879ec219025dd2dce3a714a363d18c" title="dtls1_get_record" alt="" coords="542,41,663,67"/>
+</map>

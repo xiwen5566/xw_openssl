@@ -1,0 +1,24 @@
+<map id="BN_copy" name="BN_copy">
+<area shape="rect" id="node2" href="$bn_8h.html#aa2d806f97ad6b75e85e001d781090eb0" title="BN_div" alt="" coords="198,5,262,31"/>
+<area shape="rect" id="node3" href="$bn_8h.html#a2301c52856e55cb85af5d72ba4d8813a" title="BN_dup" alt="" coords="195,308,265,333"/>
+<area shape="rect" id="node9" href="$tls__srp_8c.html#a6a959487a0d3cad88b236bda22b3e6ef" title="SSL_set_srp_server\l_param" alt="" coords="402,469,544,508"/>
+<area shape="rect" id="node10" href="$bn_8h.html#a79ce7dc01a6699fdda95a85d9d2fed3d" title="BN_mod_lshift_quick" alt="" coords="157,409,304,435"/>
+<area shape="rect" id="node11" href="$bn_8h.html#a625fb0eec5b9522d635ebfcdd5f87503" title="BN_MONT_CTX_copy" alt="" coords="152,156,308,181"/>
+<area shape="rect" id="node12" href="$ec_8h.html#a52e96363198298a40bf003fcd6b87079" title="EC_GROUP_copy" alt="" coords="407,207,539,232"/>
+<area shape="rect" id="node13" href="$ec_8h.html#a1b36047c8a06bad7a13aab8032db0184" title="EC_KEY_copy" alt="" coords="651,256,760,281"/>
+<area shape="rect" id="node16" href="$bn_8h.html#aea83263e7e0976a7137de67067edeb32" title="BN_RECP_CTX_set" alt="" coords="158,459,302,484"/>
+<area shape="rect" id="node17" href="$ec__lcl_8h.html#aa7367612a811db772fa4137ab0ff331c" title="ec_GF2m_simple_group_copy" alt="" coords="129,508,332,533"/>
+<area shape="rect" id="node18" href="$ec__lcl_8h.html#ad00a6ce9db80b22d53ee5d73bb4e0073" title="ec_GF2m_simple_point_copy" alt="" coords="131,557,329,583"/>
+<area shape="rect" id="node19" href="$ecp__mont_8c.html#a1f837840aeb3b128c8107c65d4e1f232" title="ec_GFp_mont_field_set\l_to_one" alt="" coords="149,607,312,645"/>
+<area shape="rect" id="node20" href="$ecp__smpl_8c.html#a418de2adeaf867cb259edef65f739c26" title="ec_GFp_simple_group_copy" alt="" coords="134,107,326,132"/>
+<area shape="rect" id="node22" href="$ecp__smpl_8c.html#a51d907b1003888a6e0472b816f689bad" title="ec_GFp_simple_point_copy" alt="" coords="380,57,566,83"/>
+<area shape="rect" id="node23" href="$ec_8h.html#a5a106d1e916a24a63c6b679701e2149b" title="EC_GROUP_get_cofactor" alt="" coords="142,669,319,695"/>
+<area shape="rect" id="node4" href="$ec_8h.html#ac71ebd801dd40f9b9c42b61aff685f3d" title="EC_KEY_set_private_key" alt="" coords="386,308,560,333"/>
+<area shape="rect" id="node5" href="$ecp__mont_8c.html#a04233a3357689fe1c80a8bf71dfc2386" title="ec_GFp_mont_group_copy" alt="" coords="382,156,564,181"/>
+<area shape="rect" id="node7" href="$tls__srp_8c.html#ade736a42419607c4f8d7b953e0e69253" title="SSL_SRP_CTX_init" alt="" coords="403,357,543,383"/>
+<area shape="rect" id="node8" href="$tls__srp_8c.html#a7df432358a68e80958a4f2c674104848" title="SSL_set_srp_server\l_param_pw" alt="" coords="402,407,544,445"/>
+<area shape="rect" id="node6" href="$ecp__nistz256_8c.html#a74f9ec69cb8fd687c3792ce37f3600b4" title="EC_GFp_nistz256_method" alt="" coords="614,107,796,132"/>
+<area shape="rect" id="node14" href="$ec_8h.html#ace0ab0bff19e37298b7dc761dd5745ea" title="EC_GROUP_dup" alt="" coords="642,207,768,232"/>
+<area shape="rect" id="node15" href="$ec_8h.html#a384a92a00677065b4d2d3a5cc56f1e5b" title="EC_KEY_set_group" alt="" coords="844,207,985,232"/>
+<area shape="rect" id="node21" href="$ecp__nist_8c.html#a76f9fdf911953c290dbc833b8543650d" title="ec_GFp_nist_group_copy" alt="" coords="386,107,560,132"/>
+</map>

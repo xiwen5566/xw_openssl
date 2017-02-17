@@ -1,0 +1,13 @@
+<map id="X509v3_get_ext_count" name="X509v3_get_ext_count">
+<area shape="rect" id="node2" href="$ocsp_8h.html#a60db9e7765d37bcb61cae397687e97a5" title="OCSP_BASICRESP_get\l_ext_count" alt="" coords="218,5,387,44"/>
+<area shape="rect" id="node3" href="$ocsp_8h.html#a6b8736c1ac7904ebee1e3d8c0d0a9d6b" title="OCSP_ONEREQ_get_ext\l_count" alt="" coords="214,68,390,107"/>
+<area shape="rect" id="node4" href="$ocsp_8h.html#a4712f3b9424d79dde5285487b1a3585d" title="OCSP_REQUEST_get_ext\l_count" alt="" coords="211,131,393,169"/>
+<area shape="rect" id="node5" href="$ocsp_8h.html#a6e527854adcb28848503fb8302206003" title="OCSP_SINGLERESP_get\l_ext_count" alt="" coords="213,193,391,232"/>
+<area shape="rect" id="node6" href="$ts_8h.html#aa689ae09b186460ef190acf1012f7324" title="TS_ext_print_bio" alt="" coords="241,256,363,281"/>
+<area shape="rect" id="node8" href="$ts_8h.html#a36ff08a2437eb5196fde2e66daa4ffc4" title="TS_REQ_get_ext_count" alt="" coords="219,305,385,331"/>
+<area shape="rect" id="node9" href="$ts_8h.html#a05d9778a1c236ea5e4588d2927600cd6" title="TS_TST_INFO_get_ext\l_count" alt="" coords="221,355,383,393"/>
+<area shape="rect" id="node10" href="$x509_8h.html#a6834ff463519419c701787ff7ebdc630" title="X509_CRL_get_ext_count" alt="" coords="213,417,391,443"/>
+<area shape="rect" id="node11" href="$x509_8h.html#a84f023c9e654fa18c660e724fbc848a9" title="X509_get_ext_count" alt="" coords="230,467,374,492"/>
+<area shape="rect" id="node12" href="$x509_8h.html#a5766d9f65b8e0aace3c6a5a8b6f76c47" title="X509_REVOKED_get_ext\l_count" alt="" coords="214,516,390,555"/>
+<area shape="rect" id="node7" href="$ts_8h.html#aaaf053f6ec9b086b038672aa0660df2d" title="TS_REQ_print_bio" alt="" coords="441,256,574,281"/>
+</map>

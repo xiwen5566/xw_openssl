@@ -1,0 +1,6 @@
+<map id="BIO_get_data" name="BIO_get_data">
+<area shape="rect" id="node2" href="$bio__ssl_8c.html#a92613b200326a8ff23de99826349ee46" title="BIO_ssl_copy_session_id" alt="" coords="157,5,331,31"/>
+<area shape="rect" id="node3" href="$bio__ssl_8c.html#ae886b42962d7d46c0146a254fd003b75" title="BIO_ssl_shutdown" alt="" coords="178,55,310,80"/>
+<area shape="rect" id="node4" href="$internal_2comp_8h.html#a97b74d89cee97209103e04612d8899b4" title="comp_zlib_cleanup_int" alt="" coords="165,104,322,129"/>
+<area shape="rect" id="node5" href="$ssltestlib_8h.html#a71e3f1ab9a04c92d58c2bd09438352d4" title="mempacket_test_inject" alt="" coords="165,153,323,179"/>
+</map>

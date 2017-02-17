@@ -1,0 +1,10 @@
+<map id="tls_construct_stoc_key_share" name="tls_construct_stoc_key_share">
+<area shape="rect" id="node2" href="$p__lib_8c.html#a28ca835622ca370a0cf935ec5977f65d" title="EVP_PKEY_free" alt="" coords="237,5,358,31"/>
+<area shape="rect" id="node3" href="$p__lib_8c.html#a5c253ede0401e6c1187c275ed2564945" title="EVP_PKEY_get1_tls_encodedpoint" alt="" coords="181,55,414,80"/>
+<area shape="rect" id="node4" href="$s3__lib_8c.html#a5559e2f30decdf7ee67113a0a6cf88e2" title="ssl_derive" alt="" coords="257,104,338,129"/>
+<area shape="rect" id="node5" href="$s3__lib_8c.html#a2c515bce8aaddbe67ca1c636bcf2e702" title="ssl_generate_pkey" alt="" coords="231,153,364,179"/>
+<area shape="rect" id="node6" href="$ssl__locl_8h.html#acf07e370af46d131ba45f07c97b1448b" title="tls13_generate_handshake\l_secret" alt="" coords="207,203,389,241"/>
+<area shape="rect" id="node9" href="$packet_8c.html#aac8728576d7575c207f6e9407e9c66a6" title="WPACKET_close" alt="" coords="235,265,360,291"/>
+<area shape="rect" id="node7" href="$ssl__ciph_8c.html#a0c7afb51c1adb1b2f6ab1857476ce4bd" title="ssl_handshake_md" alt="" coords="471,185,607,211"/>
+<area shape="rect" id="node8" href="$tls13__enc_8c.html#a9a9f051a617d7f4f9afe56b58f0edff0" title="tls13_generate_secret" alt="" coords="462,235,615,260"/>
+</map>

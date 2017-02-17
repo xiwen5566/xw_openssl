@@ -1,0 +1,4 @@
+<map id="dtls1_retransmit_buffered_messages" name="dtls1_retransmit_buffered_messages">
+<area shape="rect" id="node2" href="$ssl__locl_8h.html#a7ec8af97850fe8c80b6d2add11d99942" title="dtls1_handle_timeout" alt="" coords="226,12,374,37"/>
+<area shape="rect" id="node3" href="$statem__dtls_8c.html#a74a1f2b26271f8af2f467711e8b58ace" title="dtls1_read_failed" alt="" coords="422,12,545,37"/>
+</map>

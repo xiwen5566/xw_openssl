@@ -1,0 +1,5 @@
+<map id="ec_wNAF_precompute_mult" name="ec_wNAF_precompute_mult">
+<area shape="rect" id="node2" href="$ec__lcl_8h.html#aaa1d366bfc1f617fc5623ab3ca105084" title="ec_GF2m_precompute_mult" alt="" coords="251,5,441,31"/>
+<area shape="rect" id="node3" href="$ec_8h.html#a789a49ef200f689fcddd25c170340210" title="EC_GROUP_precompute_mult" alt="" coords="243,55,449,80"/>
+<area shape="rect" id="node4" href="$ec_8h.html#aefece09de34104498a65198e3b0d1f43" title="EC_KEY_precompute_mult" alt="" coords="497,55,682,80"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="tls1_set_server_sigalgs" name="tls1_set_server_sigalgs">
+<area shape="rect" id="node2" href="$s3__msg_8c.html#a9e42a91e282847c50bd4cf748c5d4618" title="ssl3_send_alert" alt="" coords="229,68,344,93"/>
+<area shape="rect" id="node5" href="$t1__lib_8c.html#ad1534695ded738992124ae2ff7dd5bac" title="ssl_set_default_md" alt="" coords="218,117,355,143"/>
+<area shape="rect" id="node7" href="$t1__lib_8c.html#a07a1f5c5f3d824cfdae7749d66eb7d70" title="tls1_process_sigalgs" alt="" coords="214,167,359,192"/>
+<area shape="rect" id="node3" href="$rec__layer__s3_8c.html#a68eea9e4f1c9a46f2aabb346a1272bce" title="RECORD_LAYER_write\l_pending" alt="" coords="417,5,582,44"/>
+<area shape="rect" id="node4" href="$ssl_8h.html#a0b1799f93fc382f92cb1ba58a25b1c90" title="SSL_CTX_remove_session" alt="" coords="407,68,592,93"/>
+<area shape="rect" id="node6" href="$ssl__ciph_8c.html#ae3e357113bd149511e22b038579966d6" title="ssl_md" alt="" coords="468,117,531,143"/>
+</map>

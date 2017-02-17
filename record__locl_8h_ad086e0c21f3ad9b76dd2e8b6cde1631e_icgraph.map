@@ -1,0 +1,6 @@
+<map id="SSL3_RECORD_clear" name="SSL3_RECORD_clear">
+<area shape="rect" id="node2" href="$record_8h.html#ab05fdc39d21aeaf7cd675bc49288f77c" title="RECORD_LAYER_clear" alt="" coords="209,5,374,31"/>
+<area shape="rect" id="node3" href="$record_8h.html#a7f80dbfdf09467ba20a66129d5cfd269" title="RECORD_LAYER_init" alt="" coords="215,55,368,80"/>
+<area shape="rect" id="node4" href="$ssl__lib_8c.html#a1874e8b72da196e3300b265937aa6da4" title="SSL_new" alt="" coords="422,55,501,80"/>
+<area shape="rect" id="node5" href="$ssltestlib_8h.html#a7fbef819d52bb292f68b0476e10d50bf" title="create_ssl_objects" alt="" coords="549,55,681,80"/>
+</map>

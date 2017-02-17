@@ -1,0 +1,8 @@
+<map id="X509_STORE_free" name="X509_STORE_free">
+<area shape="rect" id="node2" href="$ssl__locl_8h.html#a92b579f69306fca426a979dff84bf62a" title="ssl_build_cert_chain" alt="" coords="209,5,351,31"/>
+<area shape="rect" id="node3" href="$ssl__locl_8h.html#aa249b7299f445a2e517998d9d7176b52" title="ssl_cert_set_cert_store" alt="" coords="201,55,360,80"/>
+<area shape="rect" id="node4" href="$ssl__lib_8c.html#a4be5eb3971d3a96e7fbbb19c59be33f3" title="SSL_CTX_set_cert_store" alt="" coords="194,104,367,129"/>
+<area shape="rect" id="node6" href="$ts_8h.html#aa8c109c37df92dc3ea1b44d31d5fe9fa" title="TS_VERIFY_CTX_cleanup" alt="" coords="189,153,371,179"/>
+<area shape="rect" id="node5" href="$ssl__lib_8c.html#a0c2e8b330fe83aa076b049e2f9d107d3" title="SSL_CTX_set1_cert_store" alt="" coords="419,104,599,129"/>
+<area shape="rect" id="node7" href="$ts_8h.html#ad3da518cefd941a412200c31553cd718" title="TS_VERIFY_CTX_free" alt="" coords="430,153,589,179"/>
+</map>

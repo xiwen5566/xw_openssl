@@ -1,0 +1,8 @@
+<map id="RECORD_LAYER" name="RECORD_LAYER">
+<area shape="rect" id="node2" href="$structSSL3__RECORD.html" title="SSL3_RECORD" alt="" coords="5,205,124,231"/>
+<area shape="rect" id="node3" href="$structDTLS__RECORD__LAYER.html" title="DTLS_RECORD_LAYER" alt="" coords="149,205,320,231"/>
+<area shape="rect" id="node4" href="$structDTLS1__BITMAP.html" title="DTLS1_BITMAP" alt="" coords="121,92,241,117"/>
+<area shape="rect" id="node5" href="$structrecord__pqueue.html" title="record_pqueue" alt="" coords="265,92,376,117"/>
+<area shape="rect" id="node6" href="$structpqueue__st.html" title="pqueue" alt="" coords="288,5,354,31"/>
+<area shape="rect" id="node7" href="$structSSL3__BUFFER.html" title="SSL3_BUFFER" alt="" coords="344,205,458,231"/>
+</map>

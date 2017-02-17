@@ -1,0 +1,28 @@
+var structRECORD__LAYER =
+[
+    [ "alert_count", "structRECORD__LAYER.html#a1a3f5878055eb265ef3444bde78f5f84", null ],
+    [ "alert_fragment", "structRECORD__LAYER.html#add963f3fc7a1c67abd0d821526419f47", null ],
+    [ "alert_fragment_len", "structRECORD__LAYER.html#a95857008e0916cddefd72755eef75e4e", null ],
+    [ "d", "structRECORD__LAYER.html#ab791e525d7d88c4e178d69a01f41b3a8", null ],
+    [ "empty_record_count", "structRECORD__LAYER.html#adf5ed7b397f885bd0a27f9e3ad452e03", null ],
+    [ "handshake_fragment", "structRECORD__LAYER.html#a6e7ae5a4a6c72214ed6eade4f831afd3", null ],
+    [ "handshake_fragment_len", "structRECORD__LAYER.html#add3f411f6347ffd522ea0019c9ebc3e9", null ],
+    [ "is_first_record", "structRECORD__LAYER.html#af0f902c18b58577da8baf7a533485c94", null ],
+    [ "numrpipes", "structRECORD__LAYER.html#a8a35ef8cec82e26199b1636415a9e9a7", null ],
+    [ "numwpipes", "structRECORD__LAYER.html#ad245a76a492f4cabd1bbdfb74085d84c", null ],
+    [ "packet", "structRECORD__LAYER.html#a12f869e80da40cc0807ed2dddd5ff95e", null ],
+    [ "packet_length", "structRECORD__LAYER.html#acfd653e19cfeea50b4743edd7245df88", null ],
+    [ "rbuf", "structRECORD__LAYER.html#a9a1d2af51256a2a27b1b5b12d3b8e6ee", null ],
+    [ "read_ahead", "structRECORD__LAYER.html#abf961fa1992be2cb046dbf46e57a94ff", null ],
+    [ "read_sequence", "structRECORD__LAYER.html#a461df8119f9656fe77d397cee53ee0c4", null ],
+    [ "rrec", "structRECORD__LAYER.html#a801c6a3daf7e3b8f4ed3678b017c786b", null ],
+    [ "rstate", "structRECORD__LAYER.html#a2d7e02860edd1252fbd8cfb88749f364", null ],
+    [ "s", "structRECORD__LAYER.html#a8914402a058e3f798101f186e4128488", null ],
+    [ "wbuf", "structRECORD__LAYER.html#ae1a87cafdcfb7392d20baff33051fae7", null ],
+    [ "wnum", "structRECORD__LAYER.html#ae79d6383a23db77ddcf8cc4a92ddf1cd", null ],
+    [ "wpend_buf", "structRECORD__LAYER.html#a775fcedbdaee9e6b3c4162a6840d620c", null ],
+    [ "wpend_ret", "structRECORD__LAYER.html#a22e6a60f9a0cb6a063ed297211d8e46a", null ],
+    [ "wpend_tot", "structRECORD__LAYER.html#a7a62d6ad81e71c04fa2d18366be9b97e", null ],
+    [ "wpend_type", "structRECORD__LAYER.html#ae6edd816faa4ac6bed637524020efb7b", null ],
+    [ "write_sequence", "structRECORD__LAYER.html#a773db95eb941ace70687563ac7737dd9", null ]
+];

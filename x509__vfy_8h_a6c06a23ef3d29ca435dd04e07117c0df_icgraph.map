@@ -1,0 +1,9 @@
+<map id="X509_LOOKUP_shutdown" name="X509_LOOKUP_shutdown">
+<area shape="rect" id="node2" href="$x509__vfy_8h.html#ad894e908f24015eb83396c207afc0741" title="X509_STORE_free" alt="" coords="233,80,369,105"/>
+<area shape="rect" id="node3" href="$ts_8h.html#aa8c109c37df92dc3ea1b44d31d5fe9fa" title="TS_VERIFY_CTX_cleanup" alt="" coords="417,5,599,31"/>
+<area shape="rect" id="node5" href="$ssl__locl_8h.html#a92b579f69306fca426a979dff84bf62a" title="ssl_build_cert_chain" alt="" coords="437,55,579,80"/>
+<area shape="rect" id="node6" href="$ssl__locl_8h.html#aa249b7299f445a2e517998d9d7176b52" title="ssl_cert_set_cert_store" alt="" coords="429,104,588,129"/>
+<area shape="rect" id="node7" href="$ssl__lib_8c.html#a4be5eb3971d3a96e7fbbb19c59be33f3" title="SSL_CTX_set_cert_store" alt="" coords="422,153,595,179"/>
+<area shape="rect" id="node4" href="$ts_8h.html#ad3da518cefd941a412200c31553cd718" title="TS_VERIFY_CTX_free" alt="" coords="658,5,817,31"/>
+<area shape="rect" id="node8" href="$ssl__lib_8c.html#a0c2e8b330fe83aa076b049e2f9d107d3" title="SSL_CTX_set1_cert_store" alt="" coords="647,153,827,179"/>
+</map>

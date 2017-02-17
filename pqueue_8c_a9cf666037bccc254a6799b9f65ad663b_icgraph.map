@@ -1,0 +1,5 @@
+<map id="pitem_new" name="pitem_new">
+<area shape="rect" id="node2" href="$record__locl_8h.html#aeeff7210b2ca8c216d73471154de504e" title="dtls1_buffer_record" alt="" coords="139,41,275,67"/>
+<area shape="rect" id="node3" href="$record__locl_8h.html#a152e40dd2a65f190a77801a5fbe5544f" title="dtls1_process_buffered\l_records" alt="" coords="323,5,483,44"/>
+<area shape="rect" id="node4" href="$ssl3__record_8c.html#add879ec219025dd2dce3a714a363d18c" title="dtls1_get_record" alt="" coords="531,41,651,67"/>
+</map>

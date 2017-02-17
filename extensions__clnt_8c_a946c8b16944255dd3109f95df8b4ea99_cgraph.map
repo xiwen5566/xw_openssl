@@ -1,0 +1,5 @@
+<map id="tls_construct_ctos_sig_algs" name="tls_construct_ctos_sig_algs">
+<area shape="rect" id="node2" href="$ssl__locl_8h.html#a836968939d1b20f2e0ea382207e0b80e" title="tls12_copy_sigalgs" alt="" coords="181,5,315,31"/>
+<area shape="rect" id="node3" href="$ssl__locl_8h.html#a3576d08442875d1b3c894b6708e77dc2" title="tls12_get_psigalgs" alt="" coords="182,55,314,80"/>
+<area shape="rect" id="node4" href="$packet_8c.html#aac8728576d7575c207f6e9407e9c66a6" title="WPACKET_close" alt="" coords="186,104,311,129"/>
+</map>

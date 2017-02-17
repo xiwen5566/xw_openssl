@@ -1,0 +1,6 @@
+<map id="ssl3_setup_buffers" name="ssl3_setup_buffers">
+<area shape="rect" id="node2" href="$ssl3__buffer_8c.html#abb5cda7d91b20c71246faae4bbab2862" title="ssl3_setup_read_buffer" alt="" coords="187,5,348,31"/>
+<area shape="rect" id="node5" href="$ssl3__buffer_8c.html#a2ee04b17f053e199971bca39866fc3d1" title="ssl3_setup_write_buffer" alt="" coords="186,55,348,80"/>
+<area shape="rect" id="node3" href="$ssl__locl_8h.html#a7cb671af9a226fa5aa45d0a3d0f4f624" title="ssl_allow_compression" alt="" coords="396,31,555,56"/>
+<area shape="rect" id="node4" href="$ssl__cert_8c.html#a32aee5209841fb9321327a567c10d1d0" title="ssl_security" alt="" coords="603,31,694,56"/>
+</map>

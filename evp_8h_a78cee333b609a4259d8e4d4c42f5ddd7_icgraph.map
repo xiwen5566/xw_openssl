@@ -1,0 +1,7 @@
+<map id="EVP_PKEY_new" name="EVP_PKEY_new">
+<area shape="rect" id="node2" href="$x509_8h.html#a8568e2db1d6ef729942c7ea48a1b39ec" title="d2i_PrivateKey_bio" alt="" coords="179,5,315,31"/>
+<area shape="rect" id="node3" href="$x509_8h.html#a12eb5dfb1b8e3915ab30243a3a5953aa" title="d2i_PrivateKey_fp" alt="" coords="183,55,312,80"/>
+<area shape="rect" id="node4" href="$x509_8h.html#a1cc3b239494e5ffb26c3609255f3bba9" title="d2i_PUBKEY_bio" alt="" coords="184,104,310,129"/>
+<area shape="rect" id="node5" href="$x509_8h.html#a9c6c197f29c3837e5d93ab6ab4164cf8" title="d2i_PUBKEY_fp" alt="" coords="188,153,307,179"/>
+<area shape="rect" id="node6" href="$x509_8h.html#ab2ed83edf745387c548f7e0eea8a3df0" title="EVP_PKCS82PKEY" alt="" coords="176,203,318,228"/>
+</map>

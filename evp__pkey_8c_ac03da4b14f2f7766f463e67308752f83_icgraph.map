@@ -1,0 +1,8 @@
+<map id="EVP_PKEY2PKCS8" name="EVP_PKEY2PKCS8">
+<area shape="rect" id="node2" href="$evp_8h.html#ae3cb941ded6c11df245233e7436680ed" title="i2d_PrivateKey" alt="" coords="205,68,316,93"/>
+<area shape="rect" id="node7" href="$pkcs12_8h.html#a8ac4a3de159129b8b8f32fe51aac7146" title="PKCS12_add_key" alt="" coords="195,117,326,143"/>
+<area shape="rect" id="node3" href="$pem_8h.html#af2d75e4766dc5a28754c1c40a265c9b0" title="PEM_write_bio_PrivateKey\l_traditional" alt="" coords="374,5,557,44"/>
+<area shape="rect" id="node5" href="$x509_8h.html#a95d9f95b4d740d9e74449d24d535212f" title="i2d_PrivateKey_fp" alt="" coords="400,68,530,93"/>
+<area shape="rect" id="node6" href="$x509_8h.html#abc51cb215d33a4c10347841c290b3cf6" title="i2d_PrivateKey_bio" alt="" coords="397,117,533,143"/>
+<area shape="rect" id="node4" href="$pem__pkey_8c.html#ac1eebf0c57bc10a6e333a1e857cfb80f" title="PEM_write_bio_PrivateKey" alt="" coords="605,12,788,37"/>
+</map>

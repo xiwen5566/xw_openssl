@@ -1,0 +1,4 @@
+<map id="SSL_CTX_callback_ctrl" name="SSL_CTX_callback_ctrl">
+<area shape="rect" id="node2" href="$ssl__lib_8c.html#a2c995ec561e4ac24638e4ad707875e6f" title="SSL_CTX_set_not_resumable\l_session_callback" alt="" coords="215,5,416,44"/>
+<area shape="rect" id="node3" href="$ssl__lib_8c.html#a507807d311c7b8cda19370ef7ebfa89c" title="Set the callback for generating temporary DH keys. " alt="" coords="237,68,394,107"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="WPACKET_get_curr" name="WPACKET_get_curr">
+<area shape="rect" id="node2" href="$packet__locl_8h.html#a55f56e0e30596674d925b30e24e3a837" title="WPACKET_reserve_bytes" alt="" coords="196,175,373,200"/>
+<area shape="rect" id="node3" href="$packet__locl_8h.html#a306a77f1a098ca245a3db37133620f24" title="WPACKET_allocate_bytes" alt="" coords="421,147,600,172"/>
+<area shape="rect" id="node19" href="$packet__locl_8h.html#afed194c594d0c8f8b5bea7ca606d746f" title="WPACKET_sub_reserve\l_bytes__" alt="" coords="427,196,594,235"/>
+<area shape="rect" id="node4" href="$packet__locl_8h.html#ace3c1d3a4ed97229be071898181b36d8" title="WPACKET_sub_allocate\l_bytes__" alt="" coords="905,5,1073,44"/>
+<area shape="rect" id="node5" href="$packet__locl_8h.html#a8e082091d8e4c6296df6b74dbf79bb0c" title="WPACKET_start_sub_packet\l_len__" alt="" coords="648,73,844,112"/>
+<area shape="rect" id="node8" href="$packet__locl_8h.html#a388570093bc70fd2c4c05df86558f75b" title="WPACKET_put_bytes__" alt="" coords="663,147,829,172"/>
+<area shape="rect" id="node9" href="$packet__locl_8h.html#aeea1c9fbfe278803b60a4ec35e294447" title="WPACKET_memcpy" alt="" coords="674,216,818,241"/>
+<area shape="rect" id="node18" href="$statem__locl_8h.html#a350e37ef8c00a06e0fc092b5432d41f4" title="tls_construct_ctos\l_status_request" alt="" coords="682,265,810,304"/>
+<area shape="rect" id="node6" href="$packet__locl_8h.html#a0657494cbfcd8cc3710cabbfbdb96103" title="WPACKET_start_sub_packet" alt="" coords="892,68,1087,93"/>
+<area shape="rect" id="node7" href="$packet__locl_8h.html#a9ede23232e6533e8d7e0d45afadb540e" title="WPACKET_sub_memcpy__" alt="" coords="895,117,1083,143"/>
+<area shape="rect" id="node10" href="$ssl__locl_8h.html#afebdf99c48f8d062fbb1c65b85ecedc2" title="ssl3_get_req_cert_type" alt="" coords="909,167,1069,192"/>
+<area shape="rect" id="node11" href="$statem__locl_8h.html#ab18fd9980213b948769a7180a3b6a98d" title="tls_construct_ctos_srp" alt="" coords="912,216,1066,241"/>
+<area shape="rect" id="node12" href="$statem__locl_8h.html#a9167ea1320a18bc5db0331a5a1442fa4" title="tls_construct_stoc\l_renegotiate" alt="" coords="925,265,1053,304"/>
+<area shape="rect" id="node13" href="$statem__locl_8h.html#a48f12829cb610638ba3f82a545ebd095" title="tls_construct_stoc\l_cryptopro_bug" alt="" coords="925,328,1053,367"/>
+<area shape="rect" id="node14" href="$statem__locl_8h.html#a0e2feeaabc7f39fcab973b62b14ce9f6" title="tls_construct_finished" alt="" coords="914,391,1064,416"/>
+<area shape="rect" id="node17" href="$statem__srvr_8c.html#a5cc159cf836b24247a18b930be1e3a28" title="tls_construct_server\l_hello" alt="" coords="919,440,1059,479"/>
+<area shape="rect" id="node15" href="$statem__locl_8h.html#a3e864e1c6ca4b13f85f07880195b0686" title="ossl_statem_client\l_construct_message" alt="" coords="1135,377,1279,416"/>
+<area shape="rect" id="node16" href="$statem__srvr_8c.html#a5304aa5610ffa20fbeb5eac9522f2074" title="ossl_statem_server\l_construct_message" alt="" coords="1135,440,1279,479"/>
+</map>

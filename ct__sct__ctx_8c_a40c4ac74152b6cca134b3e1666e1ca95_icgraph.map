@@ -1,0 +1,5 @@
+<map id="SCT_CTX_set1_issuer_pubkey" name="SCT_CTX_set1_issuer_pubkey">
+<area shape="rect" id="node2" href="$ct__sct__ctx_8c.html#adb95fde67b290a1f174da005cf556d02" title="SCT_CTX_set1_issuer" alt="" coords="211,5,369,31"/>
+<area shape="rect" id="node3" href="$ct_8h.html#a7de6a60a60366efa2ee3efbec8990feb" title="SCT_validate" alt="" coords="239,55,341,80"/>
+<area shape="rect" id="node4" href="$ct_8h.html#aedbf3b7672ef2307f756abf06d041168" title="SCT_LIST_validate" alt="" coords="417,55,554,80"/>
+</map>

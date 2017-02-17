@@ -1,0 +1,12 @@
+<map id="EC_KEY_set_private_key" name="EC_KEY_set_private_key">
+<area shape="rect" id="node2" href="$bn__lib_8c.html#a56590c5516fe2b5ae9b30fbbb3874c5a" title="BN_clear_free" alt="" coords="228,29,335,55"/>
+<area shape="rect" id="node5" href="$bn__lib_8c.html#a2301c52856e55cb85af5d72ba4d8813a" title="BN_dup" alt="" coords="247,156,316,181"/>
+<area shape="rect" id="node3" href="$bn__lib_8c.html#a68dd7712287b489522c5f3ff0bcc585e" title="BN_get_flags" alt="" coords="568,80,670,105"/>
+<area shape="rect" id="node4" href="$mem__clr_8c.html#a2aa47e40c63b05d00e9a780592f2a2b8" title="OPENSSL_cleanse" alt="" coords="383,29,520,55"/>
+<area shape="rect" id="node6" href="$bn__lib_8c.html#aea0c4e291bb4a98877f3e106aba231ad" title="BN_copy" alt="" coords="414,180,489,205"/>
+<area shape="rect" id="node9" href="$bn__lib_8c.html#a2d660f4ff6015d33035484c4e9f09e88" title="BN_free" alt="" coords="416,131,487,156"/>
+<area shape="rect" id="node10" href="$bn__lib_8c.html#a778b82cdf93b0e855412c07aafed97f8" title="BN_new" alt="" coords="416,229,487,255"/>
+<area shape="rect" id="node11" href="$bn__lib_8c.html#a637dcd0f55ecac13e2b0fc2c83e50726" title="BN_secure_new" alt="" coords="392,279,511,304"/>
+<area shape="rect" id="node7" href="$bn__lib_8c.html#a86c209c406a1dd5be5c232f02008ee04" title="bn_wexpand" alt="" coords="571,180,668,205"/>
+<area shape="rect" id="node8" href="$bn__lib_8c.html#a496f06c46dfeeaf6619f132028d7cc40" title="bn_expand2" alt="" coords="718,180,812,205"/>
+</map>

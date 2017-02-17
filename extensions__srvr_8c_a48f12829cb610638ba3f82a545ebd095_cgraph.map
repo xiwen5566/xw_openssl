@@ -1,0 +1,9 @@
+<map id="tls_construct_stoc_cryptopro_bug" name="tls_construct_stoc_cryptopro_bug">
+<area shape="rect" id="node2" href="$ssl_8h.html#a9ec2bc86ed34a3835f93492b42a27354" title="SSL_get_options" alt="" coords="192,5,315,31"/>
+<area shape="rect" id="node3" href="$packet_8c.html#aeea1c9fbfe278803b60a4ec35e294447" title="WPACKET_memcpy" alt="" coords="181,55,325,80"/>
+<area shape="rect" id="node4" href="$packet_8c.html#a306a77f1a098ca245a3db37133620f24" title="WPACKET_allocate_bytes" alt="" coords="373,55,552,80"/>
+<area shape="rect" id="node5" href="$packet_8c.html#a55f56e0e30596674d925b30e24e3a837" title="WPACKET_reserve_bytes" alt="" coords="600,55,778,80"/>
+<area shape="rect" id="node6" href="$buffer_8c.html#ab25cf431be37fe28a0486094de402b45" title="BUF_MEM_grow" alt="" coords="836,5,959,31"/>
+<area shape="rect" id="node7" href="$e__aes_8c.html#a9619851a8d1e618586837d33d14936d7" title="if" alt="" coords="878,55,916,80"/>
+<area shape="rect" id="node8" href="$packet_8c.html#a919275424b43246c4f9f78a4ac03b9a8" title="WPACKET_get_curr" alt="" coords="826,104,968,129"/>
+</map>

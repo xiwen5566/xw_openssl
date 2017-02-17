@@ -1,0 +1,8 @@
+<map id="X509_check_private_key" name="X509_check_private_key">
+<area shape="rect" id="node2" href="$ocsp_8h.html#a1a9cff3509322837eab100081459ee46" title="OCSP_basic_sign" alt="" coords="258,5,388,31"/>
+<area shape="rect" id="node3" href="$ocsp_8h.html#a95ea5e01031a28440a19c4d8f2757781" title="OCSP_request_sign" alt="" coords="251,55,394,80"/>
+<area shape="rect" id="node4" href="$ssl__lib_8c.html#a9f99c48d92df4a20f8e4c4794511a8a3" title="SSL_check_private_key" alt="" coords="241,104,405,129"/>
+<area shape="rect" id="node5" href="$ssl__lib_8c.html#aab9edbff5e8230a1eb07e3db1b67c78f" title="SSL_CTX_check_private_key" alt="" coords="224,153,422,179"/>
+<area shape="rect" id="node6" href="$s__cb_8c.html#af2e5d83e9904025ce853deefee30016b" title="set_cert_stuff" alt="" coords="488,128,589,153"/>
+<area shape="rect" id="node7" href="$ssltestlib_8h.html#ab87159f2bd97a9f54e8a720735036303" title="create_ssl_ctx_pair" alt="" coords="470,177,606,203"/>
+</map>

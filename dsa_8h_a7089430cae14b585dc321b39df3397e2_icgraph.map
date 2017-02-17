@@ -1,0 +1,10 @@
+<map id="DSA_new_method" name="DSA_new_method">
+<area shape="rect" id="node2" href="$dsa_8h.html#a17f81623b8a2b2c8764bba24a0f5be42" title="DSA_new" alt="" coords="186,153,266,179"/>
+<area shape="rect" id="node3" href="$x509_8h.html#a32a49768ef1a99769aaaae09c0def93e" title="d2i_DSA_PUBKEY_bio" alt="" coords="316,5,477,31"/>
+<area shape="rect" id="node4" href="$x509_8h.html#a1b1e485e1845dc727a6f3f0c6bcf639e" title="d2i_DSA_PUBKEY_fp" alt="" coords="319,55,473,80"/>
+<area shape="rect" id="node5" href="$x509_8h.html#a950fea0102e0ec6800b0764408ba040e" title="d2i_DSAPrivateKey_bio" alt="" coords="314,104,478,129"/>
+<area shape="rect" id="node6" href="$x509_8h.html#a74d5b0fee73cec939a03490afa93d8bf" title="d2i_DSAPrivateKey_fp" alt="" coords="318,153,475,179"/>
+<area shape="rect" id="node7" href="$testdsa_8h.html#aaaac9d1ba2d881f17f935a46de51f7a1" title="get_dsa1024" alt="" coords="347,203,446,228"/>
+<area shape="rect" id="node8" href="$testdsa_8h.html#ab326a27f3dee0f25a718a16505884eb9" title="get_dsa2048" alt="" coords="347,252,446,277"/>
+<area shape="rect" id="node9" href="$testdsa_8h.html#a071c4399382bf1fb4ae63af4c9a9db19" title="get_dsa512" alt="" coords="351,301,442,327"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="crypto/dsa/dsa_key.c" name="crypto/dsa/dsa_key.c">
+<area shape="rect" id="node4" href="$cryptlib_8h.html" title="internal/cryptlib.h" alt="" coords="787,152,909,177"/>
+<area shape="rect" id="node28" href="$bn_8h.html" title="openssl/bn.h" alt="" coords="1318,372,1415,397"/>
+<area shape="rect" id="node29" href="$dsa__locl_8h.html" title="dsa_locl.h" alt="" coords="1216,79,1298,104"/>
+<area shape="rect" id="node7" href="$e__os_8h.html" title="e_os.h" alt="" coords="769,372,830,397"/>
+<area shape="rect" id="node14" href="$crypto_8h.html" title="openssl/crypto.h" alt="" coords="1195,445,1314,471"/>
+<area shape="rect" id="node21" href="$buffer_8h.html" title="openssl/buffer.h" alt="" coords="876,372,991,397"/>
+<area shape="rect" id="node23" href="$openssl_2bio_8h.html" title="openssl/bio.h" alt="" coords="442,372,542,397"/>
+<area shape="rect" id="node25" href="$openssl_2err_8h.html" title="openssl/err.h" alt="" coords="339,225,437,251"/>
+<area shape="rect" id="node9" href="$e__os2_8h.html" title="openssl/e_os2.h" alt="" coords="893,592,1011,617"/>
+<area shape="rect" id="node15" href="$stack_8h.html" title="openssl/stack.h" alt="" coords="1553,592,1666,617"/>
+<area shape="rect" id="node16" href="$safestack_8h.html" title="openssl/safestack.h" alt="" coords="1540,519,1678,544"/>
+<area shape="rect" id="node17" href="$opensslv_8h.html" title="openssl/opensslv.h" alt="" coords="1014,519,1148,544"/>
+<area shape="rect" id="node18" href="$ossl__typ_8h.html" title="openssl/ossl_typ.h" alt="" coords="1702,519,1833,544"/>
+<area shape="rect" id="node20" href="$symhacks_8h.html" title="openssl/symhacks.h" alt="" coords="1273,519,1414,544"/>
+<area shape="rect" id="node26" href="$lhash_8h.html" title="openssl/lhash.h" alt="" coords="201,299,315,324"/>
+<area shape="rect" id="node30" href="$dsa_8h.html" title="openssl/dsa.h" alt="" coords="1205,152,1309,177"/>
+<area shape="rect" id="node33" href="$refcount_8h.html" title="internal/refcount.h" alt="" coords="1333,152,1461,177"/>
+<area shape="rect" id="node31" href="$dh_8h.html" title="openssl/dh.h" alt="" coords="1325,225,1422,251"/>
+<area shape="rect" id="node32" href="$asn1_8h.html" title="openssl/asn1.h" alt="" coords="1498,299,1609,324"/>
+</map>

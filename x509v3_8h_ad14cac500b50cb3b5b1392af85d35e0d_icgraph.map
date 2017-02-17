@@ -1,0 +1,12 @@
+<map id="X509_check_purpose" name="X509_check_purpose">
+<area shape="rect" id="node2" href="$ts_8h.html#ace501ad5abb317c322e23e4c9f574246" title="TS_RESP_CTX_set_signer_cert" alt="" coords="204,5,418,31"/>
+<area shape="rect" id="node3" href="$x509_8h.html#af7d8ab113a29212c9818af26c2573b42" title="X509_cmp" alt="" coords="268,55,354,80"/>
+<area shape="rect" id="node4" href="$x509v3_8h.html#a7f726d3f098cdd6444c20f23a0fb414f" title="X509_get0_subject_key_id" alt="" coords="220,104,402,129"/>
+<area shape="rect" id="node5" href="$x509v3_8h.html#aa42133b2801d4ed5c7c2977eb37fd046" title="X509_get_extended_key\l_usage" alt="" coords="227,153,395,192"/>
+<area shape="rect" id="node6" href="$x509v3_8h.html#aa65e52cd020ed70f63d62ab9dda605a6" title="X509_get_extension\l_flags" alt="" coords="240,216,382,255"/>
+<area shape="rect" id="node8" href="$x509v3_8h.html#ab4bf4cf9d9809bca83aefee049c1b2a0" title="X509_get_key_usage" alt="" coords="236,279,386,304"/>
+<area shape="rect" id="node10" href="$x509_8h.html#a26ffd0978260a1bdf6c8af571b3ddb05" title="X509_get_pathlen" alt="" coords="246,328,376,353"/>
+<area shape="rect" id="node11" href="$x509v3_8h.html#a2176d1d523d5f95325433429b0e99546" title="X509_get_proxy_pathlen" alt="" coords="226,377,396,403"/>
+<area shape="rect" id="node7" href="$ssl__locl_8h.html#a92b579f69306fca426a979dff84bf62a" title="ssl_build_cert_chain" alt="" coords="466,223,609,248"/>
+<area shape="rect" id="node9" href="$ssl__locl_8h.html#a5b8b88e567d80401a59534120d9d1f38" title="ssl_check_srvr_ecc\l_cert_and_alg" alt="" coords="469,272,606,311"/>
+</map>

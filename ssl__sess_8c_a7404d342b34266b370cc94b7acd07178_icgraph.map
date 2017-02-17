@@ -1,0 +1,31 @@
+<map id="SSL_CTX_remove_session" name="SSL_CTX_remove_session">
+<area shape="rect" id="node2" href="$ssl__locl_8h.html#a9e42a91e282847c50bd4cf748c5d4618" title="ssl3_send_alert" alt="" coords="259,479,374,504"/>
+<area shape="rect" id="node24" href="$ssl__sess_8c.html#ae64d80a6acc4b692ccaf30ab16cc70a1" title="ssl_clear_bad_session" alt="" coords="238,977,395,1003"/>
+<area shape="rect" id="node3" href="$statem__locl_8h.html#abac6b153b712c3fe83b5631f85e0c89d" title="dtls_construct_change\l_cipher_spec" alt="" coords="454,503,609,541"/>
+<area shape="rect" id="node6" href="$statem__srvr_8c.html#ad2ac5d4d3defb71ca8a6c3125d16fd50" title="ossl_statem_server\l_read_transition" alt="" coords="463,915,600,953"/>
+<area shape="rect" id="node7" href="$t1__lib_8c.html#a24f7ae1c498e104bfeddd51af527ca3a" title="tls1_set_server_sigalgs" alt="" coords="451,5,612,31"/>
+<area shape="rect" id="node8" href="$statem__locl_8h.html#a9ea8008e35ed4895eb05c4bc36543c83" title="tls_client_key_exchange\l_post_work" alt="" coords="448,55,615,93"/>
+<area shape="rect" id="node10" href="$statem__srvr_8c.html#aa57e2d9b7455fe7507fe828c6e121342" title="tls_construct_cert\l_status" alt="" coords="469,740,594,779"/>
+<area shape="rect" id="node11" href="$statem__locl_8h.html#a60ecf5fca10bd661def07c131fd26943" title="tls_construct_change\l_cipher_spec" alt="" coords="458,565,605,604"/>
+<area shape="rect" id="node12" href="$statem__locl_8h.html#aa16c940d1afff40a420c48118da29202" title="tls_construct_client\l_certificate" alt="" coords="464,328,599,367"/>
+<area shape="rect" id="node13" href="$statem__locl_8h.html#a0e2feeaabc7f39fcab973b62b14ce9f6" title="tls_construct_finished" alt="" coords="457,628,606,653"/>
+<area shape="rect" id="node14" href="$statem__locl_8h.html#aeadd04d2b1ecaf84fc2783fc806f7e8f" title="tls_construct_key_update" alt="" coords="445,391,618,416"/>
+<area shape="rect" id="node15" href="$statem__locl_8h.html#a67e99c3f0feee1a1b82dd4bc9247f4d0" title="tls_construct_next\l_proto" alt="" coords="467,440,596,479"/>
+<area shape="rect" id="node16" href="$statem__srvr_8c.html#ac9bc9ccaa39f9f825525d973c5eaf302" title="tls_construct_server\l_certificate" alt="" coords="461,803,602,841"/>
+<area shape="rect" id="node17" href="$statem__srvr_8c.html#a02bcf43f03a315a56433cb996096ca8c" title="tls_construct_server_done" alt="" coords="443,865,620,891"/>
+<area shape="rect" id="node18" href="$statem__srvr_8c.html#a5cc159cf836b24247a18b930be1e3a28" title="tls_construct_server\l_hello" alt="" coords="461,677,602,716"/>
+<area shape="rect" id="node19" href="$statem__locl_8h.html#aa9e6f8a83352a9a00de0299ab8a82438" title="tls_get_message_header" alt="" coords="446,117,617,143"/>
+<area shape="rect" id="node20" href="$statem__locl_8h.html#adbeb1af2fb68ff1e5d6c55f33aca3c2c" title="tls_prepare_client\l_certificate" alt="" coords="468,167,595,205"/>
+<area shape="rect" id="node22" href="$statem__locl_8h.html#a023715d8146691af878108728ae4600f" title="tls_process_cert_status" alt="" coords="451,229,612,255"/>
+<area shape="rect" id="node23" href="$statem__lib_8c.html#aff36fa96ca06ab0d5f557efcd86f1940" title="tls_setup_handshake" alt="" coords="458,279,605,304"/>
+<area shape="rect" id="node4" href="$statem__locl_8h.html#a3e864e1c6ca4b13f85f07880195b0686" title="ossl_statem_client\l_construct_message" alt="" coords="681,472,825,511"/>
+<area shape="rect" id="node5" href="$statem__srvr_8c.html#a5304aa5610ffa20fbeb5eac9522f2074" title="ossl_statem_server\l_construct_message" alt="" coords="681,677,825,716"/>
+<area shape="rect" id="node9" href="$statem__locl_8h.html#ab0adfd5a6a75b5442ca738c33ad32e4b" title="ossl_statem_client\l_post_work" alt="" coords="688,55,819,93"/>
+<area shape="rect" id="node21" href="$statem__locl_8h.html#a2fa55dc1ddc52ea667912279660a31d8" title="ossl_statem_client\l_post_process_message" alt="" coords="668,167,838,205"/>
+<area shape="rect" id="node25" href="$ssl__lib_8c.html#a6ca5df7a5ec47382fa95ab8590550bc7" title="SSL_clear" alt="" coords="490,1027,573,1052"/>
+<area shape="rect" id="node28" href="$ssl__sess_8c.html#aebc427b571a838dbd48f8f3710cd1f95" title="SSL_set_session" alt="" coords="469,977,594,1003"/>
+<area shape="rect" id="node26" href="$ssl__lib_8c.html#a1874e8b72da196e3300b265937aa6da4" title="SSL_new" alt="" coords="714,1027,792,1052"/>
+<area shape="rect" id="node27" href="$ssltestlib_8h.html#a7fbef819d52bb292f68b0476e10d50bf" title="create_ssl_objects" alt="" coords="907,1027,1039,1052"/>
+<area shape="rect" id="node29" href="$ssl__lib_8c.html#a2d56e559331cd2c92ee85f64cd56830f" title="SSL_copy_session_id" alt="" coords="677,977,829,1003"/>
+<area shape="rect" id="node30" href="$bio__ssl_8c.html#a92613b200326a8ff23de99826349ee46" title="BIO_ssl_copy_session_id" alt="" coords="886,977,1060,1003"/>
+</map>

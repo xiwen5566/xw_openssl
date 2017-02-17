@@ -1,0 +1,12 @@
+<map id="crypto/blake2/blake2s.c" name="crypto/blake2/blake2s.c">
+<area shape="rect" id="node4" href="$crypto_8h.html" title="openssl/crypto.h" alt="" coords="547,79,665,104"/>
+<area shape="rect" id="node17" href="$e__os_8h.html" title="e_os.h" alt="" coords="1129,152,1190,177"/>
+<area shape="rect" id="node21" href="$blake2__locl_8h.html" title="blake2_locl.h" alt="" coords="1198,79,1297,104"/>
+<area shape="rect" id="node23" href="$blake2__impl_8h.html" title="blake2_impl.h" alt="" coords="1019,79,1123,104"/>
+<area shape="rect" id="node7" href="$e__os2_8h.html" title="openssl/e_os2.h" alt="" coords="797,225,916,251"/>
+<area shape="rect" id="node11" href="$stack_8h.html" title="openssl/stack.h" alt="" coords="5,225,119,251"/>
+<area shape="rect" id="node12" href="$safestack_8h.html" title="openssl/safestack.h" alt="" coords="46,152,185,177"/>
+<area shape="rect" id="node13" href="$opensslv_8h.html" title="openssl/opensslv.h" alt="" coords="616,152,750,177"/>
+<area shape="rect" id="node14" href="$ossl__typ_8h.html" title="openssl/ossl_typ.h" alt="" coords="462,152,593,177"/>
+<area shape="rect" id="node16" href="$symhacks_8h.html" title="openssl/symhacks.h" alt="" coords="774,152,915,177"/>
+</map>

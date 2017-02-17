@@ -1,0 +1,11 @@
+<map id="PKCS12_add_key" name="PKCS12_add_key">
+<area shape="rect" id="node2" href="$evp__pkey_8c.html#ac03da4b14f2f7766f463e67308752f83" title="EVP_PKEY2PKCS8" alt="" coords="210,5,352,31"/>
+<area shape="rect" id="node4" href="$p12__sbag_8c.html#a3146d2d6a9a58d0b8be06e220732f09b" title="PKCS12_SAFEBAG_create0\l_p8inf" alt="" coords="184,55,378,93"/>
+<area shape="rect" id="node6" href="$p12__sbag_8c.html#a09c022e241812606cf77568cba9049f4" title="PKCS12_SAFEBAG_create\l_pkcs8_encrypt" alt="" coords="187,117,375,156"/>
+<area shape="rect" id="node9" href="$p12__attr_8c.html#aecc12c1710355f8d742fe650301b9e06" title="PKCS8_add_keyusage" alt="" coords="201,203,361,228"/>
+<area shape="rect" id="node3" href="$rand__lib_8c.html#a634ae9af5bff27c9537f9a0b6d4fb97a" title="RAND_add" alt="" coords="479,5,568,31"/>
+<area shape="rect" id="node5" href="$obj__dat_8c.html#a42d9bf0fd7cd17fe4101c74c215b37ca" title="OBJ_nid2obj" alt="" coords="669,112,767,137"/>
+<area shape="rect" id="node7" href="$p12__p8e_8c.html#a340b536443017a3bbafd3ceb0bfd7128" title="PKCS8_encrypt" alt="" coords="466,109,582,135"/>
+<area shape="rect" id="node8" href="$p12__sbag_8c.html#ac67ac5a88d56a2a343efb83f4e84d36f" title="PKCS12_SAFEBAG_create0\l_pkcs8" alt="" coords="426,159,621,197"/>
+<area shape="rect" id="node10" href="$x509_8h.html#a9312f61eff7d201e04739e10bdb6617b" title="PKCS8_pkey_add1_attr\l_by_NID" alt="" coords="442,221,606,260"/>
+</map>

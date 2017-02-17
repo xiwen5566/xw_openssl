@@ -1,0 +1,18 @@
+<map id="crypto/asn1/x_bignum.c" name="crypto/asn1/x_bignum.c">
+<area shape="rect" id="node3" href="$cryptlib_8h.html" title="internal/cryptlib.h" alt="" coords="697,79,820,104"/>
+<area shape="rect" id="node28" href="$asn1t_8h.html" title="openssl/asn1t.h" alt="" coords="1248,152,1363,177"/>
+<area shape="rect" id="node30" href="$bn_8h.html" title="openssl/bn.h" alt="" coords="1502,299,1599,324"/>
+<area shape="rect" id="node6" href="$e__os_8h.html" title="e_os.h" alt="" coords="192,299,253,324"/>
+<area shape="rect" id="node13" href="$crypto_8h.html" title="openssl/crypto.h" alt="" coords="955,372,1074,397"/>
+<area shape="rect" id="node21" href="$buffer_8h.html" title="openssl/buffer.h" alt="" coords="1102,299,1217,324"/>
+<area shape="rect" id="node23" href="$openssl_2bio_8h.html" title="openssl/bio.h" alt="" coords="717,299,816,324"/>
+<area shape="rect" id="node25" href="$openssl_2err_8h.html" title="openssl/err.h" alt="" coords="679,152,777,177"/>
+<area shape="rect" id="node8" href="$e__os2_8h.html" title="openssl/e_os2.h" alt="" coords="1002,519,1120,544"/>
+<area shape="rect" id="node15" href="$stack_8h.html" title="openssl/stack.h" alt="" coords="1659,519,1772,544"/>
+<area shape="rect" id="node16" href="$safestack_8h.html" title="openssl/safestack.h" alt="" coords="1647,445,1785,471"/>
+<area shape="rect" id="node17" href="$opensslv_8h.html" title="openssl/opensslv.h" alt="" coords="833,445,967,471"/>
+<area shape="rect" id="node18" href="$ossl__typ_8h.html" title="openssl/ossl_typ.h" alt="" coords="1340,445,1471,471"/>
+<area shape="rect" id="node20" href="$symhacks_8h.html" title="openssl/symhacks.h" alt="" coords="991,445,1132,471"/>
+<area shape="rect" id="node26" href="$lhash_8h.html" title="openssl/lhash.h" alt="" coords="527,225,641,251"/>
+<area shape="rect" id="node29" href="$asn1_8h.html" title="openssl/asn1.h" alt="" coords="1402,225,1513,251"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="tls12_get_psigalgs" name="tls12_get_psigalgs">
+<area shape="rect" id="node2" href="$t1__lib_8c.html#afef159555263fb64d3d20e2eaf2514f1" title="ssl_set_sig_mask" alt="" coords="186,29,312,55"/>
+<area shape="rect" id="node6" href="$statem__locl_8h.html#a946c8b16944255dd3109f95df8b4ea99" title="tls_construct_ctos\l_sig_algs" alt="" coords="185,79,313,117"/>
+<area shape="rect" id="node3" href="$ssl__locl_8h.html#afebdf99c48f8d062fbb1c65b85ecedc2" title="ssl3_get_req_cert_type" alt="" coords="361,5,521,31"/>
+<area shape="rect" id="node4" href="$t1__lib_8c.html#a73dddac88f8ac7aa5ce547388025db80" title="ssl_set_client_disabled" alt="" coords="362,55,520,80"/>
+<area shape="rect" id="node5" href="$ssl__lib_8c.html#ae24ae1a87ecbe77299ab1e2179a9ef08" title="STACK_OF" alt="" coords="569,55,660,80"/>
+</map>

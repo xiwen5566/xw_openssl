@@ -1,0 +1,4 @@
+<map id="tls_close_construct_packet" name="tls_close_construct_packet">
+<area shape="rect" id="node2" href="$packet_8c.html#aac8728576d7575c207f6e9407e9c66a6" title="WPACKET_close" alt="" coords="204,5,328,31"/>
+<area shape="rect" id="node3" href="$packet_8c.html#a4b18eb67a9ef01981714cc49d72af37f" title="WPACKET_get_length" alt="" coords="188,55,344,80"/>
+</map>

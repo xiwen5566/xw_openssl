@@ -1,0 +1,10 @@
+<map id="SSL_SESSION_free" name="SSL_SESSION_free">
+<area shape="rect" id="node2" href="$ssl__lib_8c.html#a6ca5df7a5ec47382fa95ab8590550bc7" title="SSL_clear" alt="" coords="220,5,303,31"/>
+<area shape="rect" id="node5" href="$ssl__sess_8c.html#a7f8fc86b0f58122e12a8a350759c5e1a" title="ssl_session_dup" alt="" coords="201,55,321,80"/>
+<area shape="rect" id="node6" href="$ssl__sess_8c.html#aebc427b571a838dbd48f8f3710cd1f95" title="SSL_set_session" alt="" coords="199,104,324,129"/>
+<area shape="rect" id="node9" href="$ssl__locl_8h.html#acd0dff6005ae755ebe1b6314dbf6b45e" title="ssl_update_cache" alt="" coords="197,153,326,179"/>
+<area shape="rect" id="node3" href="$ssl__lib_8c.html#a1874e8b72da196e3300b265937aa6da4" title="SSL_new" alt="" coords="411,5,489,31"/>
+<area shape="rect" id="node4" href="$ssltestlib_8h.html#a7fbef819d52bb292f68b0476e10d50bf" title="create_ssl_objects" alt="" coords="595,5,727,31"/>
+<area shape="rect" id="node7" href="$ssl__lib_8c.html#a2d56e559331cd2c92ee85f64cd56830f" title="SSL_copy_session_id" alt="" coords="374,104,526,129"/>
+<area shape="rect" id="node8" href="$bio__ssl_8c.html#a92613b200326a8ff23de99826349ee46" title="BIO_ssl_copy_session_id" alt="" coords="574,104,748,129"/>
+</map>

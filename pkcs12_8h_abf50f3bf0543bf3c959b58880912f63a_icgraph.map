@@ -1,0 +1,5 @@
+<map id="PKCS12_item_pack_safebag" name="PKCS12_item_pack_safebag">
+<area shape="rect" id="node2" href="$pkcs12_8h.html#aed503c4700c62ae2362ced879bf9b346" title="PKCS12_SAFEBAG_create_cert" alt="" coords="249,5,466,31"/>
+<area shape="rect" id="node4" href="$pkcs12_8h.html#a4423efe690322be7ecf1ae9284c3a126" title="PKCS12_SAFEBAG_create_crl" alt="" coords="253,55,462,80"/>
+<area shape="rect" id="node3" href="$pkcs12_8h.html#af10fc3384988606f6d759c4205f1421a" title="PKCS12_add_cert" alt="" coords="514,5,646,31"/>
+</map>

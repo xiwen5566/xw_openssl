@@ -1,0 +1,5 @@
+<map id="dtls1_clear_received_buffer" name="dtls1_clear_received_buffer">
+<area shape="rect" id="node2" href="$record_8h.html#a84fc61d7bb3adb768528dca79e5a7cdf" title="dtls1_reset_seq_numbers" alt="" coords="197,44,372,69"/>
+<area shape="rect" id="node3" href="$statem__locl_8h.html#ab0adfd5a6a75b5442ca738c33ad32e4b" title="ossl_statem_client\l_post_work" alt="" coords="423,5,554,44"/>
+<area shape="rect" id="node4" href="$statem__srvr_8c.html#a949295775b6290f05e034846b7fa5576" title="ossl_statem_server\l_post_work" alt="" coords="420,68,557,107"/>
+</map>

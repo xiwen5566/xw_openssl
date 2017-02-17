@@ -1,0 +1,4 @@
+<map id="dtls_wait_for_dry" name="dtls_wait_for_dry">
+<area shape="rect" id="node2" href="$statem__locl_8h.html#a0ff5c079a56a4eeb60de30f2733da7c3" title="ossl_statem_client\l_pre_work" alt="" coords="178,5,309,44"/>
+<area shape="rect" id="node3" href="$statem__srvr_8c.html#a083dda8442837ab01b8f911cc0b0d8c4" title="ossl_statem_server\l_pre_work" alt="" coords="175,68,312,107"/>
+</map>

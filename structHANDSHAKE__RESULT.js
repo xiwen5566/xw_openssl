@@ -1,0 +1,28 @@
+var structHANDSHAKE__RESULT =
+[
+    [ "client_alert_received", "structHANDSHAKE__RESULT.html#a1047be11391b2207ab9d5b3f1a496a9b", null ],
+    [ "client_alert_sent", "structHANDSHAKE__RESULT.html#a6e5d56d65c13b55d5151fb6a6ee8e382", null ],
+    [ "client_alpn_negotiated", "structHANDSHAKE__RESULT.html#a71fab13e7e11a86926333824b91d2c37", null ],
+    [ "client_cert_type", "structHANDSHAKE__RESULT.html#ad01daa2596c2c32b609c4189009b6df5", null ],
+    [ "client_npn_negotiated", "structHANDSHAKE__RESULT.html#aa504a83485b07cfdc0d9a9a4bb47ff20", null ],
+    [ "client_num_fatal_alerts_sent", "structHANDSHAKE__RESULT.html#ac2208a23cb91ed63a774ef1e4dcb883e", null ],
+    [ "client_protocol", "structHANDSHAKE__RESULT.html#abe8edeb5360c1aef1479d141654f2138", null ],
+    [ "client_resumed", "structHANDSHAKE__RESULT.html#a24cf73c8343c49b97c7f59acf2860f0a", null ],
+    [ "client_sign_hash", "structHANDSHAKE__RESULT.html#a4a134ebbe610ef163796355c9b71036a", null ],
+    [ "client_sign_type", "structHANDSHAKE__RESULT.html#a26d0c052c4e1bdbb873ee2bff51dcad2", null ],
+    [ "result", "structHANDSHAKE__RESULT.html#a1682c1ad24b71464cca387201498dae8", null ],
+    [ "server_alert_received", "structHANDSHAKE__RESULT.html#a8373b547d305668b7a705d02c4a5b2a6", null ],
+    [ "server_alert_sent", "structHANDSHAKE__RESULT.html#a00417feeadab8a99719e728bd42f2c23", null ],
+    [ "server_alpn_negotiated", "structHANDSHAKE__RESULT.html#a109d44e13978e21e554ef713052dc14e", null ],
+    [ "server_cert_type", "structHANDSHAKE__RESULT.html#a53a77b3a9f9bd3f7a33fc9692a6954d3", null ],
+    [ "server_npn_negotiated", "structHANDSHAKE__RESULT.html#ab0739da630cd965924dcab4af19c325c", null ],
+    [ "server_num_fatal_alerts_sent", "structHANDSHAKE__RESULT.html#a1a9c6f8445bd9dac0f2929a13d356505", null ],
+    [ "server_protocol", "structHANDSHAKE__RESULT.html#ac9ff4067b8f286ad28460e072d086de7", null ],
+    [ "server_resumed", "structHANDSHAKE__RESULT.html#a01dae53c6a61420481c8e6a75372b091", null ],
+    [ "server_sign_hash", "structHANDSHAKE__RESULT.html#a94a7736ed98b527c3b52c1305e71317d", null ],
+    [ "server_sign_type", "structHANDSHAKE__RESULT.html#a9d159bfef74daf38ea7d9be56f8e16d1", null ],
+    [ "servername", "structHANDSHAKE__RESULT.html#a7c5155485a69361a795f599e68d46286", null ],
+    [ "session_ticket", "structHANDSHAKE__RESULT.html#af1032be4695c864dc43dbd9bb8f7a2da", null ],
+    [ "session_ticket_do_not_call", "structHANDSHAKE__RESULT.html#a16b2d70a93f2d1fc979109c6d0f623fd", null ],
+    [ "tmp_key_type", "structHANDSHAKE__RESULT.html#a2063f7510192492320d67b4cb7cc385f", null ]
+];

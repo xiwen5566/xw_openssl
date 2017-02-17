@@ -1,0 +1,7 @@
+<map id="EC_POINT_is_at_infinity" name="EC_POINT_is_at_infinity">
+<area shape="rect" id="node2" href="$ec__lcl_8h.html#a80454ca3fc129bf4c82994539240f6b8" title="ec_GF2m_simple_invert" alt="" coords="222,5,388,31"/>
+<area shape="rect" id="node3" href="$ecp__nistp224_8c.html#ae3845f81f9b346bed10a8e71d585fe73" title="ec_GFp_nistp224_point\l_get_affine_coordinates" alt="" coords="223,55,387,93"/>
+<area shape="rect" id="node4" href="$ecp__nistp256_8c.html#aa0317f18ae8b5cee3c852455d84c4cf6" title="ec_GFp_nistp256_point\l_get_affine_coordinates" alt="" coords="223,117,387,156"/>
+<area shape="rect" id="node5" href="$ecp__nistp521_8c.html#ab2e7d32fd0628914975fa2a397e05a1d" title="ec_GFp_nistp521_point\l_get_affine_coordinates" alt="" coords="223,180,387,219"/>
+<area shape="rect" id="node6" href="$ecp__smpl_8c.html#a88450dd59a0a0f004269d7ac4074823b" title="ec_GFp_simple_invert" alt="" coords="228,243,382,268"/>
+</map>

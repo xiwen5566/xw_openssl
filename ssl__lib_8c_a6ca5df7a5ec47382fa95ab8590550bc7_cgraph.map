@@ -1,0 +1,12 @@
+<map id="SSL_clear" name="SSL_clear">
+<area shape="rect" id="node2" href="$buffer_8c.html#a23b89bdd73ece6de391da978a0649388" title="BUF_MEM_free" alt="" coords="156,5,273,31"/>
+<area shape="rect" id="node3" href="$statem_8c.html#a410fd92bc5428ed1fd459fc3a051c165" title="ossl_statem_clear" alt="" coords="150,55,279,80"/>
+<area shape="rect" id="node4" href="$ssl__locl_8h.html#ae64d80a6acc4b692ccaf30ab16cc70a1" title="ssl_clear_bad_session" alt="" coords="136,104,292,129"/>
+<area shape="rect" id="node8" href="$ssl_8h.html#aa04c4fadeb077926a9ceb3553fe8bb92" title="SSL_SESSION_free" alt="" coords="142,203,286,228"/>
+<area shape="rect" id="node5" href="$ssl_8h.html#a8bcb06e82fc1107090412d76163045f5" title="SSL_in_init" alt="" coords="396,29,485,55"/>
+<area shape="rect" id="node6" href="$ssl_8h.html#a9a3a46a50dce060ea08521cf1b1cfe42" title="SSL_in_before" alt="" coords="386,79,495,104"/>
+<area shape="rect" id="node7" href="$ssl__sess_8c.html#a7404d342b34266b370cc94b7acd07178" title="SSL_CTX_remove_session" alt="" coords="348,128,533,153"/>
+<area shape="rect" id="node9" href="$ex__data_8c.html#a0ab5fa7e84dfdcb691f88aac8ddefd22" title="CRYPTO_free_ex_data" alt="" coords="360,177,521,203"/>
+<area shape="rect" id="node10" href="$threads__none_8c.html#aa57dbba3eb22960dd5bc4acd72daaef6" title="CRYPTO_THREAD_lock_free" alt="" coords="340,227,541,252"/>
+<area shape="rect" id="node11" href="$mem__clr_8c.html#a2aa47e40c63b05d00e9a780592f2a2b8" title="OPENSSL_cleanse" alt="" coords="372,276,509,301"/>
+</map>

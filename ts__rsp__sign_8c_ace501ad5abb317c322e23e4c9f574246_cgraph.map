@@ -1,0 +1,4 @@
+<map id="TS_RESP_CTX_set_signer_cert" name="TS_RESP_CTX_set_signer_cert">
+<area shape="rect" id="node2" href="$v3__purp_8c.html#ad14cac500b50cb3b5b1392af85d35e0d" title="X509_check_purpose" alt="" coords="268,5,418,31"/>
+<area shape="rect" id="node3" href="$x509__set_8c.html#aad7e4811f9a0e72cdf510762b55f57d7" title="X509_up_ref" alt="" coords="294,55,392,80"/>
+</map>

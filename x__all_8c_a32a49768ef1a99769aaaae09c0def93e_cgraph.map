@@ -1,0 +1,5 @@
+<map id="d2i_DSA_PUBKEY_bio" name="d2i_DSA_PUBKEY_bio">
+<area shape="rect" id="node2" href="$x509_8h.html#a88c80ef34081d8b7687ce8e61650bc4a" title="d2i_DSA_PUBKEY" alt="" coords="214,5,349,31"/>
+<area shape="rect" id="node3" href="$dsa__lib_8c.html#a17f81623b8a2b2c8764bba24a0f5be42" title="DSA_new" alt="" coords="241,55,322,80"/>
+<area shape="rect" id="node4" href="$dsa__lib_8c.html#a7089430cae14b585dc321b39df3397e2" title="DSA_new_method" alt="" coords="397,55,530,80"/>
+</map>

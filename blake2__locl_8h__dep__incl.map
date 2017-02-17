@@ -1,0 +1,6 @@
+<map id="crypto/blake2/blake2_locl.h" name="crypto/blake2/blake2_locl.h">
+<area shape="rect" id="node2" href="$blake2b_8c.html" title="crypto/blake2/blake2b.c" alt="" coords="5,92,167,117"/>
+<area shape="rect" id="node3" href="$blake2s_8c.html" title="crypto/blake2/blake2s.c" alt="" coords="191,92,352,117"/>
+<area shape="rect" id="node4" href="$m__blake2b_8c.html" title="crypto/blake2/m_blake2b.c" alt="" coords="376,92,556,117"/>
+<area shape="rect" id="node5" href="$m__blake2s_8c.html" title="crypto/blake2/m_blake2s.c" alt="" coords="580,92,760,117"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="X509_up_ref" name="X509_up_ref">
+<area shape="rect" id="node2" href="$cms_8h.html#a6c7423a2fbefe9e3519679784265c973" title="CMS_SignerInfo_set1\l_signer_cert" alt="" coords="183,5,334,44"/>
+<area shape="rect" id="node3" href="$ct_8h.html#a6c1cfd3ff7e0ab0a0caf3072cbb661cf" title="CT_POLICY_EVAL_CTX\l_set1_issuer" alt="" coords="173,68,343,107"/>
+<area shape="rect" id="node4" href="$pkcs7_8h.html#aa1b853f32300f5620143c20c991d127d" title="PKCS7_add_certificate" alt="" coords="179,131,338,156"/>
+<area shape="rect" id="node6" href="$ssl__locl_8h.html#aee2d52e128c799b48da9c8890d305e63" title="ssl_cert_add1_chain_cert" alt="" coords="172,180,345,205"/>
+<area shape="rect" id="node7" href="$ssl__lib_8c.html#a4c15e174c6ba355fbeeeef34c1e4599c" title="SSL_get_peer_certificate" alt="" coords="173,229,344,255"/>
+<area shape="rect" id="node8" href="$ssl__sess_8c.html#a7f8fc86b0f58122e12a8a350759c5e1a" title="ssl_session_dup" alt="" coords="198,279,318,304"/>
+<area shape="rect" id="node9" href="$x509__vfy_8h.html#a404d701024834c94dcb2da1d9fdf4071" title="STACK_OF" alt="" coords="213,328,304,353"/>
+<area shape="rect" id="node10" href="$ts_8h.html#ace501ad5abb317c322e23e4c9f574246" title="TS_RESP_CTX_set_signer_cert" alt="" coords="151,377,366,403"/>
+<area shape="rect" id="node11" href="$x509__vfy_8h.html#ab935d4174ee68bea1d22947a493ba5a0" title="X509_OBJECT_up_ref\l_count" alt="" coords="180,427,337,465"/>
+<area shape="rect" id="node5" href="$pkcs7_8h.html#a2df7194a1840cff70b813da5bc4825f1" title="PKCS7_sign" alt="" coords="414,131,511,156"/>
+</map>

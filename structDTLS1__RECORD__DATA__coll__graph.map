@@ -1,0 +1,5 @@
+<map id="DTLS1_RECORD_DATA" name="DTLS1_RECORD_DATA">
+<area shape="rect" id="node2" href="$structSSL3__RECORD.html" title="SSL3_RECORD" alt="" coords="5,5,124,31"/>
+<area shape="rect" id="node3" href="$structSSL3__BUFFER.html" title="SSL3_BUFFER" alt="" coords="149,5,264,31"/>
+<area shape="rect" id="node4" href="$structbio__dgram__sctp__rcvinfo.html" title="bio_dgram_sctp_rcvinfo" alt="" coords="287,5,450,31"/>
+</map>

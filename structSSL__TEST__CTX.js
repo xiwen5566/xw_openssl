@@ -1,0 +1,26 @@
+var structSSL__TEST__CTX =
+[
+    [ "app_data_size", "structSSL__TEST__CTX.html#a8cc7e4f8c5bb640ad33194b2d9c69041", null ],
+    [ "expected_alpn_protocol", "structSSL__TEST__CTX.html#a2b6adc74af453b6786fbc30ec607e80b", null ],
+    [ "expected_client_alert", "structSSL__TEST__CTX.html#ae110749d16d137446d2d76bd11eb05dd", null ],
+    [ "expected_client_cert_type", "structSSL__TEST__CTX.html#a654b233482101cb54e9bbb4f6d0aaeea", null ],
+    [ "expected_client_sign_hash", "structSSL__TEST__CTX.html#aa40568c719989c8bc984a8f87d75c734", null ],
+    [ "expected_client_sign_type", "structSSL__TEST__CTX.html#a8a232801887568f8735d674a3ba9aa8c", null ],
+    [ "expected_npn_protocol", "structSSL__TEST__CTX.html#aa98a44d8c453da4cf0b292ee8e4880bf", null ],
+    [ "expected_protocol", "structSSL__TEST__CTX.html#a11a54c4135fc05de2aabb9a678703a4c", null ],
+    [ "expected_result", "structSSL__TEST__CTX.html#a90440a1311aa5ee11067afdb0917b41a", null ],
+    [ "expected_server_alert", "structSSL__TEST__CTX.html#a363011cf2a99bd49b6e9be809461a5a0", null ],
+    [ "expected_server_cert_type", "structSSL__TEST__CTX.html#ac4e2daccd3289d83d3b33ad08c306276", null ],
+    [ "expected_server_sign_hash", "structSSL__TEST__CTX.html#a19c5ed2756944bb2c570ab42d6b1bb51", null ],
+    [ "expected_server_sign_type", "structSSL__TEST__CTX.html#af94c52f921d011f9d861fd7207d9ebf3", null ],
+    [ "expected_servername", "structSSL__TEST__CTX.html#a745e611b8e4a986c77cc2676fffbd203", null ],
+    [ "expected_tmp_key_type", "structSSL__TEST__CTX.html#a1bb8b83b7b824932a3be56ead13afd24", null ],
+    [ "extra", "structSSL__TEST__CTX.html#a0d0ccddb300e9a477b91f675bf25afd8", null ],
+    [ "handshake_mode", "structSSL__TEST__CTX.html#a79953ebf34063ceba03725f564745d9e", null ],
+    [ "key_update_type", "structSSL__TEST__CTX.html#a760f81aab5e5f2813349dd87f0f7d46c", null ],
+    [ "max_fragment_size", "structSSL__TEST__CTX.html#a8f404e30f2f5af82d5b87485a646ed13", null ],
+    [ "method", "structSSL__TEST__CTX.html#a5ebb446f928a8ad140b53bf2cc0a6549", null ],
+    [ "resume_extra", "structSSL__TEST__CTX.html#a72201acad63a9081456ab736a9ae4a1b", null ],
+    [ "resumption_expected", "structSSL__TEST__CTX.html#a38a843502cf7b831b9a3dad94ef5aab7", null ],
+    [ "session_ticket_expected", "structSSL__TEST__CTX.html#aaadf57a908258f92fe311c8fe68d9dc7", null ]
+];

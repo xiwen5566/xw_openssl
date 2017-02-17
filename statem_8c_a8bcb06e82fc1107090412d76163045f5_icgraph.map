@@ -1,0 +1,15 @@
+<map id="SSL_in_init" name="SSL_in_init">
+<area shape="rect" id="node2" href="$ssl3__record_8c.html#add879ec219025dd2dce3a714a363d18c" title="dtls1_get_record" alt="" coords="160,5,281,31"/>
+<area shape="rect" id="node3" href="$statem__dtls_8c.html#a74a1f2b26271f8af2f467711e8b58ace" title="dtls1_read_failed" alt="" coords="159,55,282,80"/>
+<area shape="rect" id="node4" href="$ssl__locl_8h.html#abe3c60a1d5f14dc5cd37dce41f82d88c" title="dtls1_write_app_data\l_bytes" alt="" coords="146,104,294,143"/>
+<area shape="rect" id="node5" href="$ssl__sess_8c.html#ae64d80a6acc4b692ccaf30ab16cc70a1" title="ssl_clear_bad_session" alt="" coords="142,167,298,192"/>
+<area shape="rect" id="node12" href="$ssl__lib_8c.html#ad29159af33fc56076589b7792847ac89" title="SSL_ctrl" alt="" coords="184,216,256,241"/>
+<area shape="rect" id="node13" href="$ssl__lib_8c.html#a5fd3b0e4c14b4aeb1fd044e10c25266b" title="SSL_shutdown" alt="" coords="165,265,276,291"/>
+<area shape="rect" id="node6" href="$ssl__lib_8c.html#a6ca5df7a5ec47382fa95ab8590550bc7" title="SSL_clear" alt="" coords="371,167,454,192"/>
+<area shape="rect" id="node9" href="$ssl__sess_8c.html#aebc427b571a838dbd48f8f3710cd1f95" title="SSL_set_session" alt="" coords="350,216,475,241"/>
+<area shape="rect" id="node7" href="$ssl__lib_8c.html#a1874e8b72da196e3300b265937aa6da4" title="SSL_new" alt="" coords="564,167,642,192"/>
+<area shape="rect" id="node8" href="$ssltestlib_8h.html#a7fbef819d52bb292f68b0476e10d50bf" title="create_ssl_objects" alt="" coords="749,167,880,192"/>
+<area shape="rect" id="node10" href="$ssl__lib_8c.html#a2d56e559331cd2c92ee85f64cd56830f" title="SSL_copy_session_id" alt="" coords="527,216,679,241"/>
+<area shape="rect" id="node11" href="$bio__ssl_8c.html#a92613b200326a8ff23de99826349ee46" title="BIO_ssl_copy_session_id" alt="" coords="727,216,901,241"/>
+<area shape="rect" id="node14" href="$bio__ssl_8c.html#ae886b42962d7d46c0146a254fd003b75" title="BIO_ssl_shutdown" alt="" coords="346,265,479,291"/>
+</map>

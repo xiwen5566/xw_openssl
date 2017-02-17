@@ -1,0 +1,9 @@
+<map id="BN_secure_new" name="BN_secure_new">
+<area shape="rect" id="node2" href="$bn_8h.html#a2301c52856e55cb85af5d72ba4d8813a" title="BN_dup" alt="" coords="172,104,242,129"/>
+<area shape="rect" id="node3" href="$ec_8h.html#ac71ebd801dd40f9b9c42b61aff685f3d" title="EC_KEY_set_private_key" alt="" coords="294,5,469,31"/>
+<area shape="rect" id="node4" href="$ecp__mont_8c.html#a04233a3357689fe1c80a8bf71dfc2386" title="ec_GFp_mont_group_copy" alt="" coords="290,55,473,80"/>
+<area shape="rect" id="node6" href="$tls__srp_8c.html#ade736a42419607c4f8d7b953e0e69253" title="SSL_SRP_CTX_init" alt="" coords="312,104,451,129"/>
+<area shape="rect" id="node7" href="$tls__srp_8c.html#a7df432358a68e80958a4f2c674104848" title="SSL_set_srp_server\l_param_pw" alt="" coords="310,153,453,192"/>
+<area shape="rect" id="node8" href="$tls__srp_8c.html#a6a959487a0d3cad88b236bda22b3e6ef" title="SSL_set_srp_server\l_param" alt="" coords="310,216,453,255"/>
+<area shape="rect" id="node5" href="$ecp__nistz256_8c.html#a74f9ec69cb8fd687c3792ce37f3600b4" title="EC_GFp_nistz256_method" alt="" coords="521,55,703,80"/>
+</map>

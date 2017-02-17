@@ -1,0 +1,9 @@
+<map id="OBJ_create" name="OBJ_create">
+<area shape="rect" id="node2" href="$a__object_8c.html#ad2c99806f355ca34ae6af600b5fcb055" title="ASN1_OBJECT_free" alt="" coords="145,5,292,31"/>
+<area shape="rect" id="node3" href="$obj__dat_8c.html#a542967da28dcec219ddb5701a8bec263" title="OBJ_add_object" alt="" coords="158,55,278,80"/>
+<area shape="rect" id="node4" href="$obj__dat_8c.html#aeb5b824056080434e53d82d505874c65" title="OBJ_ln2nid" alt="" coords="173,104,263,129"/>
+<area shape="rect" id="node5" href="$obj__dat_8c.html#a11b81571216c730ecee3f7b7f658b852" title="OBJ_new_nid" alt="" coords="166,153,271,179"/>
+<area shape="rect" id="node6" href="$obj__dat_8c.html#a8b51f927a6f1ee63665c43ef6fc98552" title="OBJ_obj2nid" alt="" coords="170,203,267,228"/>
+<area shape="rect" id="node7" href="$obj__dat_8c.html#ade40e4207950f3cfba00607e4868ad46" title="OBJ_sn2nid" alt="" coords="171,252,265,277"/>
+<area shape="rect" id="node8" href="$obj__dat_8c.html#ac69ffb2ce58e557243f7a30882f1f140" title="OBJ_txt2obj" alt="" coords="171,301,265,327"/>
+</map>
