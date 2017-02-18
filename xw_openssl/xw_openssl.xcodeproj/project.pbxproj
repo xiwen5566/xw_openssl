@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6D56D0941E583858008CF130 /* nossl.c in Sources */ = {isa = PBXBuildFile; fileRef = 6D56D0901E583858008CF130 /* nossl.c */; };
+		6D56D0951E583858008CF130 /* withssl.c in Sources */ = {isa = PBXBuildFile; fileRef = 6D56D0931E583858008CF130 /* withssl.c */; };
 		6DD27C5F1E575B9F00125239 /* app_rand.c in Sources */ = {isa = PBXBuildFile; fileRef = 6DD249411E575B3500125239 /* app_rand.c */; };
 		6DD27C601E575B9F00125239 /* apps.c in Sources */ = {isa = PBXBuildFile; fileRef = 6DD249421E575B3500125239 /* apps.c */; };
 		6DD27C611E575B9F00125239 /* asn1pars.c in Sources */ = {isa = PBXBuildFile; fileRef = 6DD249441E575B3500125239 /* asn1pars.c */; };
@@ -913,6 +915,10 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		6D56D0901E583858008CF130 /* nossl.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = nossl.c; sourceTree = "<group>"; };
+		6D56D0911E583858008CF130 /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
+		6D56D0921E583858008CF130 /* TrustStore.pem */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = TrustStore.pem; sourceTree = "<group>"; };
+		6D56D0931E583858008CF130 /* withssl.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = withssl.c; sourceTree = "<group>"; };
 		6DD249351E575AD200125239 /* xw_openssl */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = xw_openssl; sourceTree = BUILT_PRODUCTS_DIR; };
 		6DD2493F1E575B3500125239 /* ACKNOWLEDGEMENTS */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = ACKNOWLEDGEMENTS; path = ../../ACKNOWLEDGEMENTS; sourceTree = "<group>"; };
 		6DD249411E575B3500125239 /* app_rand.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = app_rand.c; sourceTree = "<group>"; };
@@ -13863,6 +13869,26 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6D56D08E1E583858008CF130 /* xw_test */ = {
+			isa = PBXGroup;
+			children = (
+				6D56D08F1E583858008CF130 /* intro-openssl */,
+			);
+			name = xw_test;
+			path = ../../xw_test;
+			sourceTree = "<group>";
+		};
+		6D56D08F1E583858008CF130 /* intro-openssl */ = {
+			isa = PBXGroup;
+			children = (
+				6D56D0901E583858008CF130 /* nossl.c */,
+				6D56D0911E583858008CF130 /* README */,
+				6D56D0921E583858008CF130 /* TrustStore.pem */,
+				6D56D0931E583858008CF130 /* withssl.c */,
+			);
+			path = "intro-openssl";
+			sourceTree = "<group>";
+		};
 		6DD2492C1E575AD200125239 = {
 			isa = PBXGroup;
 			children = (
@@ -13882,6 +13908,7 @@
 		6DD249371E575AD200125239 /* xw_openssl */ = {
 			isa = PBXGroup;
 			children = (
+				6D56D08E1E583858008CF130 /* xw_test */,
 				6DD2493F1E575B3500125239 /* ACKNOWLEDGEMENTS */,
 				6DD249401E575B3500125239 /* apps */,
 				6DD249A91E575B3500125239 /* appveyor.yml */,
@@ -28640,6 +28667,7 @@
 				6DD27EDC1E575BA000125239 /* x509_cmp.c in Sources */,
 				6DD27FA51E575BA200125239 /* md4test.c in Sources */,
 				6DD27D6C1E575B9F00125239 /* ecb_enc.c in Sources */,
+				6D56D0951E583858008CF130 /* withssl.c in Sources */,
 				6DD27F461E575BA000125239 /* client.c in Sources */,
 				6DD27DA61E575B9F00125239 /* ec_err.c in Sources */,
 				6DD27CB71E575B9F00125239 /* asn1_lib.c in Sources */,
@@ -28723,6 +28751,7 @@
 				6DD27CD91E575B9F00125239 /* x_info.c in Sources */,
 				6DD27CFB1E575B9F00125239 /* bss_dgram.c in Sources */,
 				6DD27E611E575BA000125239 /* p12_asn.c in Sources */,
+				6D56D0941E583858008CF130 /* nossl.c in Sources */,
 				6DD27C6B1E575B9F00125239 /* ec.c in Sources */,
 				6DD27CCD1E575B9F00125239 /* t_pkey.c in Sources */,
 				6DD27ED81E575BA000125239 /* t_crl.c in Sources */,
@@ -29099,14 +29128,32 @@
 		6DD2493D1E575AD200125239 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				HEADER_SEARCH_PATHS = (
+					"/Users/guanghe/Documents/STUDY/Projects_personal/xw_openssl/include/**",
+					"/Users/guanghe/Documents/STUDY/Projects_personal/xw_openssl/crypto/include/**",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"/Users/guanghe/Documents/STUDY/Projects_personal/xw_openssl/include/**",
+					"/Users/guanghe/Documents/STUDY/Projects_personal/xw_openssl/crypto/include/**",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				USER_HEADER_SEARCH_PATHS = "";
 			};
 			name = Debug;
 		};
 		6DD2493E1E575AD200125239 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				HEADER_SEARCH_PATHS = (
+					"/Users/guanghe/Documents/STUDY/Projects_personal/xw_openssl/include/**",
+					"/Users/guanghe/Documents/STUDY/Projects_personal/xw_openssl/crypto/include/**",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"/Users/guanghe/Documents/STUDY/Projects_personal/xw_openssl/include/**",
+					"/Users/guanghe/Documents/STUDY/Projects_personal/xw_openssl/crypto/include/**",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				USER_HEADER_SEARCH_PATHS = "";
 			};
 			name = Release;
 		};
@@ -29129,6 +29176,7 @@
 				6DD2493E1E575AD200125239 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
